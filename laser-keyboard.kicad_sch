@@ -19760,8 +19760,8 @@
 		(uuid "c2eea9a1-efb9-4285-8959-5baef1fb6e9e")
 	)
 	(no_connect
-		(at 82.55 80.01)
-		(uuid "ca3180a2-8113-4654-bf65-32b35510f35b")
+		(at 82.55 102.87)
+		(uuid "d25821e3-6298-4fa9-b022-b5e4c54e22d4")
 	)
 	(no_connect
 		(at 402.59 378.46)
@@ -23775,7 +23775,7 @@
 		)
 		(uuid "eb2b7831-2d9f-48ca-a767-0dd4832b83e1")
 	)
-	(global_label "row08"
+	(global_label "col06"
 		(shape input)
 		(at 82.55 74.93 0)
 		(fields_autoplaced yes)
@@ -23785,9 +23785,9 @@
 			)
 			(justify left)
 		)
-		(uuid "022921ce-0c2e-40d6-90ec-aff7d55d607b")
+		(uuid "03767193-1727-49ac-a7e6-0aa57283f777")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.6479 74.8506 0)
+			(at 90.285 74.8506 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23815,50 +23815,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "col03"
-		(shape input)
-		(at 82.55 95.25 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "06fc222d-d670-4848-b6ac-461bdbc6cbaa")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.285 95.1706 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row07"
-		(shape input)
-		(at 82.55 77.47 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0c26aa43-5ee7-4271-a4f2-3f99d675382b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.6479 77.3906 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -23927,6 +23883,50 @@
 			)
 		)
 	)
+	(global_label "col03"
+		(shape input)
+		(at 82.55 105.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "131c029e-6830-4276-885d-ac59c529a383")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 90.285 105.3306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row02"
+		(shape input)
+		(at 82.55 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "13ebcd17-ba8c-4a0e-ba8e-8904a28658e0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 91.2199 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "MISO"
 		(shape input)
 		(at 326.39 247.65 0)
@@ -23948,9 +23948,9 @@
 			)
 		)
 	)
-	(global_label "row01"
+	(global_label "row05"
 		(shape input)
-		(at 82.55 110.49 0)
+		(at 82.55 90.17 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23958,9 +23958,9 @@
 			)
 			(justify left)
 		)
-		(uuid "19963970-834d-4117-b295-50aa9f3ee65b")
+		(uuid "1926d6bd-cbaf-4db0-8dcf-f3b9e8498d7b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 91.2199 110.49 0)
+			(at 90.6479 90.0906 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23994,7 +23994,7 @@
 	)
 	(global_label "col01"
 		(shape input)
-		(at 82.55 87.63 0)
+		(at 82.55 135.89 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24002,9 +24002,31 @@
 			)
 			(justify left)
 		)
-		(uuid "217b22ee-188d-455e-960c-c75d92226f8b")
+		(uuid "1ba489cd-4edb-4c3c-b32d-12b22204ab8e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.857 87.63 0)
+			(at 90.857 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col08"
+		(shape input)
+		(at 82.55 138.43 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "22c62cec-8c92-4925-ab1c-95ff80851a6b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 90.857 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24058,6 +24080,28 @@
 			)
 		)
 	)
+	(global_label "row06"
+		(shape input)
+		(at 82.55 133.35 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2655a2a2-7bf4-416c-a5e1-4563ea098e28")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 90.6479 133.2706 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "DD+"
 		(shape input)
 		(at 102.87 314.96 180)
@@ -24093,6 +24137,28 @@
 		(uuid "3346f4a4-39ea-43e1-8b90-7b484467856d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 332.6131 245.0306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row04"
+		(shape input)
+		(at 82.55 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3cb11567-a26a-45d2-90d8-1be72616d71b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 90.6479 97.7106 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24168,9 +24234,9 @@
 			)
 		)
 	)
-	(global_label "row05"
+	(global_label "row01"
 		(shape input)
-		(at 82.55 135.89 0)
+		(at 82.55 77.47 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24178,9 +24244,9 @@
 			)
 			(justify left)
 		)
-		(uuid "445e7597-c08f-45d3-8c8d-5ebc36afff73")
+		(uuid "418977bc-c3a0-4d4b-8ee3-b6a22a905974")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.6479 135.8106 0)
+			(at 91.2199 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24190,9 +24256,9 @@
 			)
 		)
 	)
-	(global_label "col08"
+	(global_label "col04"
 		(shape input)
-		(at 82.55 107.95 0)
+		(at 82.55 110.49 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24200,31 +24266,9 @@
 			)
 			(justify left)
 		)
-		(uuid "4d60ef3b-4e3c-48c1-b4d9-e47fcd86d8cf")
+		(uuid "49c5eef2-cf3e-4b68-a2b1-c9c936db6dd2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.857 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row06"
-		(shape input)
-		(at 82.55 138.43 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4de5b94f-581a-4882-b31e-349a468ef606")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.6479 138.3506 0)
+			(at 90.285 110.4106 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24321,50 +24365,6 @@
 			)
 		)
 	)
-	(global_label "col06"
-		(shape input)
-		(at 82.55 102.87 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "60936494-37e4-4ebf-b9c6-1a05193e9df5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.285 102.7906 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row04"
-		(shape input)
-		(at 82.55 133.35 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "661145d4-4fdf-4ae4-804f-225338cc37d9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.6479 133.2706 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "row02"
 		(shape input)
 		(at 166.37 88.9 180)
@@ -24426,28 +24426,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "col05"
-		(shape input)
-		(at 82.55 100.33 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6d9b0f8a-475d-40db-a115-0203fc264d0c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.285 100.2506 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -24539,9 +24517,9 @@
 			)
 		)
 	)
-	(global_label "col07"
+	(global_label "row03"
 		(shape input)
-		(at 82.55 105.41 0)
+		(at 82.55 87.63 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24549,9 +24527,9 @@
 			)
 			(justify left)
 		)
-		(uuid "763f21e8-327e-4694-81d1-50c84443b5b5")
+		(uuid "7bd651ea-0db7-4c2c-ae71-bdaf07f9c6b1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.857 105.41 0)
+			(at 90.6479 87.5506 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24737,28 +24715,6 @@
 			)
 		)
 	)
-	(global_label "row02"
-		(shape input)
-		(at 82.55 113.03 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "950a4ea3-c1ba-4b3f-b3b3-561001e2772f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 91.2199 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "col05"
 		(shape input)
 		(at 247.65 52.07 90)
@@ -24772,6 +24728,28 @@
 		(uuid "958ba614-44a6-45cf-8fb7-36111d41bee8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 247.65 43.763 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row08"
+		(shape input)
+		(at 82.55 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "964735b3-676e-49cb-a846-181cd83a3723")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 90.6479 95.1706 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24802,9 +24780,9 @@
 			)
 		)
 	)
-	(global_label "col02"
+	(global_label "col05"
 		(shape input)
-		(at 82.55 90.17 0)
+		(at 82.55 113.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24812,9 +24790,31 @@
 			)
 			(justify left)
 		)
-		(uuid "9e39228b-d404-456e-b190-f3e5b216e6fa")
+		(uuid "99dac3e4-857a-4302-82fd-cc6e717396a8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.857 90.17 0)
+			(at 90.285 112.9506 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col07"
+		(shape input)
+		(at 82.55 107.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9eb27668-4fa8-4562-aa2d-ac8efb0c6e9d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 90.857 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25022,6 +25022,28 @@
 			)
 		)
 	)
+	(global_label "row07"
+		(shape input)
+		(at 82.55 130.81 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bb9bb7f6-cbfd-4217-b7bb-bfecfc5d9aa6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 90.6479 130.7306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "DD+"
 		(shape input)
 		(at 102.87 312.42 180)
@@ -25084,50 +25106,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row03"
-		(shape input)
-		(at 82.55 130.81 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c9ae7390-e503-4fb8-91a0-c321d9bfb5a1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.6479 130.7306 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "RE_B"
-		(shape input)
-		(at 82.55 128.27 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "cf0818d7-5ef0-4c4e-8414-def1e0d404f1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 89.6198 128.1906 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -25219,28 +25197,6 @@
 			)
 		)
 	)
-	(global_label "col04"
-		(shape input)
-		(at 82.55 97.79 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e19654f2-505b-4309-badf-8e016bafe390")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.285 97.7106 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "LED"
 		(shape input)
 		(at 82.55 120.65 0)
@@ -25317,9 +25273,31 @@
 			)
 			(justify left)
 		)
-		(uuid "f1a9cecd-3733-4de9-ad06-4b181a0c8e07")
+		(uuid "f368ed3e-8f2b-4b40-afc9-bb9230b138d3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 89.4383 125.6506 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col02"
+		(shape input)
+		(at 82.55 100.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f517959b-d3a6-47e7-8d96-181150e1f30a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 90.857 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25364,6 +25342,28 @@
 		(uuid "fa42ab4d-46c0-4586-9e84-8bc62ed9da69")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 343.4383 240.1094 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RE_B"
+		(shape input)
+		(at 82.55 128.27 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fb77a83d-1abc-4b68-a83e-4212b8b39d02")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 89.6198 128.1906 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25885,6 +25885,173 @@
 			(project "laser-keyboard"
 				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
 					(reference "D08_4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SK6812MINI-E:SK6812MINI-E")
+		(at 336.55 353.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "062a50ab-e2ce-4597-9185-c16a2fb8143c")
+		(property "Reference" "LED4"
+			(at 350.52 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812MINI-E"
+			(at 350.52 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
+			(at 360.68 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
+			(at 360.68 353.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
+			(at 360.68 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.88"
+			(at 360.68 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Yellow Stone Corp."
+			(at 360.68 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SK6812MINI-E"
+			(at 360.68 363.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 360.68 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 360.68 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 360.68 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 360.68 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Testing Part Number" ""
+			(at 360.68 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Testing Price/Stock" ""
+			(at 360.68 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "ef7f9ec4-da94-415f-86f9-b4327f4f7aa7")
+		)
+		(pin "2"
+			(uuid "8d344c0e-0ba8-4f86-be0e-bce394ece56a")
+		)
+		(pin "4"
+			(uuid "235c7c0d-20a2-4fe6-a633-dfd5379417c2")
+		)
+		(pin "1"
+			(uuid "e78cb189-ca7d-4526-a931-5fb786e31761")
+		)
+		(instances
+			(project "laser-keyboard"
+				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
+					(reference "LED4")
 					(unit 1)
 				)
 			)
@@ -27781,6 +27948,340 @@
 		)
 	)
 	(symbol
+		(lib_id "SK6812MINI-E:SK6812MINI-E")
+		(at 82.55 353.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1d063dc2-e009-4c95-9ac6-115000a1e5e1")
+		(property "Reference" "LED12"
+			(at 96.52 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812MINI-E"
+			(at 96.52 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
+			(at 106.68 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
+			(at 106.68 353.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
+			(at 106.68 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.88"
+			(at 106.68 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Yellow Stone Corp."
+			(at 106.68 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SK6812MINI-E"
+			(at 106.68 363.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 106.68 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 106.68 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 106.68 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 106.68 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Testing Part Number" ""
+			(at 106.68 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Testing Price/Stock" ""
+			(at 106.68 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "9c2e1fcf-1989-4ad5-98d1-c0761f8eb90e")
+		)
+		(pin "2"
+			(uuid "9584cc15-0f20-4ee5-8ea7-b4ff0225d862")
+		)
+		(pin "4"
+			(uuid "2b0ce537-53ac-454e-84e5-0ad380194c99")
+		)
+		(pin "1"
+			(uuid "fd7a5094-64b7-4f63-9946-1240170a651c")
+		)
+		(instances
+			(project "laser-keyboard"
+				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
+					(reference "LED12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SK6812MINI-E:SK6812MINI-E")
+		(at 304.8 353.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1e27ab27-04eb-488e-87c1-5ddb609189f4")
+		(property "Reference" "LED5"
+			(at 318.77 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812MINI-E"
+			(at 318.77 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
+			(at 328.93 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
+			(at 328.93 353.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
+			(at 328.93 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.88"
+			(at 328.93 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Yellow Stone Corp."
+			(at 328.93 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SK6812MINI-E"
+			(at 328.93 363.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 328.93 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 328.93 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 328.93 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 328.93 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Testing Part Number" ""
+			(at 328.93 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Testing Price/Stock" ""
+			(at 328.93 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "9fe63ce0-30c8-40b3-bc09-a1a9dda6d87b")
+		)
+		(pin "2"
+			(uuid "986999e2-c916-4ca2-a591-2d43ab63e96d")
+		)
+		(pin "4"
+			(uuid "61f33c58-88e3-4602-9e84-cdd38f898be9")
+		)
+		(pin "1"
+			(uuid "a397b440-365a-4b86-bd43-54dfc78fcf9e")
+		)
+		(instances
+			(project "laser-keyboard"
+				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
+					(reference "LED5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "GND_8")
 		(lib_id "power:GND")
 		(at 80.01 208.28 90)
@@ -29482,6 +29983,173 @@
 		)
 	)
 	(symbol
+		(lib_id "SK6812MINI-E:SK6812MINI-E")
+		(at 114.3 353.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3d65c080-843d-41cd-9543-853437c12b85")
+		(property "Reference" "LED11"
+			(at 128.27 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812MINI-E"
+			(at 128.27 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
+			(at 138.43 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
+			(at 138.43 353.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
+			(at 138.43 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.88"
+			(at 138.43 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Yellow Stone Corp."
+			(at 138.43 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SK6812MINI-E"
+			(at 138.43 363.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 138.43 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 138.43 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 138.43 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 138.43 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Testing Part Number" ""
+			(at 138.43 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Testing Price/Stock" ""
+			(at 138.43 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "568bab97-3492-43e3-9d33-ff5a8f376208")
+		)
+		(pin "2"
+			(uuid "ab0814c4-a4ed-4e5a-b907-bf04e031c615")
+		)
+		(pin "4"
+			(uuid "212f85a4-e9c5-49bb-b8f3-92c14c9550b3")
+		)
+		(pin "1"
+			(uuid "d2d674bb-4335-4bc5-9633-d4557e485bb5")
+		)
+		(instances
+			(project "laser-keyboard"
+				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
+					(reference "LED11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 373.38 292.1 90)
 		(unit 1)
@@ -30045,16 +30713,16 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 304.8 353.06 0)
+		(at 209.55 353.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4338a26d-84d5-4460-ba68-9feb5e3fd11f")
-		(property "Reference" "LED6"
-			(at 318.77 345.44 0)
+		(uuid "43193b8b-5ac8-44cf-80b6-8223f20feb34")
+		(property "Reference" "LED8"
+			(at 223.52 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30062,7 +30730,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 318.77 347.98 0)
+			(at 223.52 347.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30070,7 +30738,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 328.93 350.52 0)
+			(at 233.68 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30080,7 +30748,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 328.93 353.06 0)
+			(at 233.68 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30090,7 +30758,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 328.93 355.6 0)
+			(at 233.68 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30100,7 +30768,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 328.93 358.14 0)
+			(at 233.68 358.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30110,7 +30778,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 328.93 360.68 0)
+			(at 233.68 360.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30120,7 +30788,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 328.93 363.22 0)
+			(at 233.68 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30130,7 +30798,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 328.93 365.76 0)
+			(at 233.68 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30140,7 +30808,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 328.93 368.3 0)
+			(at 233.68 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30150,7 +30818,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 328.93 370.84 0)
+			(at 233.68 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30160,7 +30828,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 328.93 373.38 0)
+			(at 233.68 373.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30170,7 +30838,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 328.93 375.92 0)
+			(at 233.68 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30180,7 +30848,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 328.93 378.46 0)
+			(at 233.68 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30190,21 +30858,21 @@
 			)
 		)
 		(pin "3"
-			(uuid "49756967-27c0-45eb-9e6d-49f09274996f")
+			(uuid "f1a81cc9-a66e-44b9-89ea-ac31def7adef")
 		)
 		(pin "2"
-			(uuid "a914a1e3-09b8-48c9-b283-946cbd3fef6a")
+			(uuid "cf130ca3-5bf0-496c-8bec-a712fffde3c4")
 		)
 		(pin "4"
-			(uuid "d4d25b98-825f-4d3b-ad1a-8d472dd67289")
+			(uuid "53a1e074-d618-4187-83e0-48afede657b4")
 		)
 		(pin "1"
-			(uuid "ecfe0377-2086-4970-888b-edc06c3fb7ba")
+			(uuid "74d102f6-8cce-4572-a804-ad357fd0117f")
 		)
 		(instances
 			(project "laser-keyboard"
 				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
-					(reference "LED6")
+					(reference "LED8")
 					(unit 1)
 				)
 			)
@@ -31482,6 +32150,173 @@
 		)
 	)
 	(symbol
+		(lib_id "SK6812MINI-E:SK6812MINI-E")
+		(at 177.8 353.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "54a8b546-cbeb-45a6-b6e6-7708a6d7467a")
+		(property "Reference" "LED9"
+			(at 191.77 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812MINI-E"
+			(at 191.77 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
+			(at 201.93 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
+			(at 201.93 353.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
+			(at 201.93 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.88"
+			(at 201.93 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Yellow Stone Corp."
+			(at 201.93 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SK6812MINI-E"
+			(at 201.93 363.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 201.93 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 201.93 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 201.93 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 201.93 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Testing Part Number" ""
+			(at 201.93 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Testing Price/Stock" ""
+			(at 201.93 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "1ba23554-0fda-4ecd-af33-a9cca0d9afe9")
+		)
+		(pin "2"
+			(uuid "cfbc5ba0-d7e9-484f-a53a-731a1ac4bc8b")
+		)
+		(pin "4"
+			(uuid "fe7b26eb-a330-4dac-b7e0-32d9329726ab")
+		)
+		(pin "1"
+			(uuid "02adec6a-d377-434e-8747-087261399285")
+		)
+		(instances
+			(project "laser-keyboard"
+				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
+					(reference "LED9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1.5KExxA")
 		(at 64.77 306.07 270)
 		(unit 1)
@@ -31831,173 +32666,6 @@
 		)
 	)
 	(symbol
-		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 82.55 353.06 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5d4fec1b-1932-4096-8d44-e5d951023418")
-		(property "Reference" "LED7"
-			(at 96.52 345.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 96.52 347.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 106.68 350.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 106.68 353.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 106.68 355.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.88"
-			(at 106.68 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 106.68 360.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 106.68 363.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 106.68 365.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 106.68 368.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 106.68 370.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 106.68 373.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Testing Part Number" ""
-			(at 106.68 375.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Testing Price/Stock" ""
-			(at 106.68 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "ea62b8d2-2d6c-4c47-a4d9-ba3660616672")
-		)
-		(pin "2"
-			(uuid "47613e44-b852-49ac-b241-3aca29734a45")
-		)
-		(pin "4"
-			(uuid "decea47d-1173-4516-b1f9-bcb521161c16")
-		)
-		(pin "1"
-			(uuid "3af47665-10a2-41e7-8d8f-339225a7eb66")
-		)
-		(instances
-			(project "laser-keyboard"
-				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
-					(reference "LED7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 201.93 60.96 0)
 		(unit 1)
@@ -32265,6 +32933,173 @@
 			(project "laser-keyboard"
 				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
 					(reference "D06_5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SK6812MINI-E:SK6812MINI-E")
+		(at 273.05 353.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5fb1785e-6859-4887-bf53-505027cc86d6")
+		(property "Reference" "LED6"
+			(at 287.02 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812MINI-E"
+			(at 287.02 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
+			(at 297.18 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
+			(at 297.18 353.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
+			(at 297.18 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.88"
+			(at 297.18 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Yellow Stone Corp."
+			(at 297.18 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SK6812MINI-E"
+			(at 297.18 363.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 297.18 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 297.18 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 297.18 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 297.18 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Testing Part Number" ""
+			(at 297.18 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Testing Price/Stock" ""
+			(at 297.18 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "d04c2313-8744-4aed-a538-53f0729b0263")
+		)
+		(pin "2"
+			(uuid "2b321509-adb0-43c0-b557-6c3c2aba6fc7")
+		)
+		(pin "4"
+			(uuid "9b23533e-a56d-4505-a2b5-96c49d2097f9")
+		)
+		(pin "1"
+			(uuid "7ca9c77b-67f6-40bb-8605-a824b178567e")
+		)
+		(instances
+			(project "laser-keyboard"
+				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
+					(reference "LED6")
 					(unit 1)
 				)
 			)
@@ -34835,6 +35670,173 @@
 		)
 	)
 	(symbol
+		(lib_id "SK6812MINI-E:SK6812MINI-E")
+		(at 241.3 353.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7c7f2c37-3ffa-4eca-b451-45b684326845")
+		(property "Reference" "LED7"
+			(at 255.27 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812MINI-E"
+			(at 255.27 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
+			(at 265.43 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
+			(at 265.43 353.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
+			(at 265.43 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.88"
+			(at 265.43 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Yellow Stone Corp."
+			(at 265.43 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SK6812MINI-E"
+			(at 265.43 363.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 265.43 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 265.43 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 265.43 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 265.43 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Testing Part Number" ""
+			(at 265.43 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Testing Price/Stock" ""
+			(at 265.43 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "43a8e386-4ec6-427c-b172-bbfb046948a5")
+		)
+		(pin "2"
+			(uuid "659c36a0-aedb-466f-954a-cd78756d04d7")
+		)
+		(pin "4"
+			(uuid "44775f47-d1ae-4494-9e55-4706aac2e7ff")
+		)
+		(pin "1"
+			(uuid "9427e672-8067-4c58-838d-9c51f03fb51b")
+		)
+		(instances
+			(project "laser-keyboard"
+				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
+					(reference "LED7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 461.01 60.96 0)
 		(unit 1)
@@ -35946,6 +36948,173 @@
 			(project "laser-keyboard"
 				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SK6812MINI-E:SK6812MINI-E")
+		(at 146.05 353.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8a0922c5-f012-409a-a3bb-ee1a8c7675cf")
+		(property "Reference" "LED10"
+			(at 160.02 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812MINI-E"
+			(at 160.02 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
+			(at 170.18 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
+			(at 170.18 353.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
+			(at 170.18 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.88"
+			(at 170.18 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Yellow Stone Corp."
+			(at 170.18 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SK6812MINI-E"
+			(at 170.18 363.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 170.18 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 170.18 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 170.18 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 170.18 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Testing Part Number" ""
+			(at 170.18 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Testing Price/Stock" ""
+			(at 170.18 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "cb5b3f43-d82f-470a-b8c0-de62545f26f9")
+		)
+		(pin "2"
+			(uuid "dbcbc819-14e2-4e1e-8b0d-815592f0ebc2")
+		)
+		(pin "4"
+			(uuid "4b207d86-72b0-4c42-be9f-ac2830617cb0")
+		)
+		(pin "1"
+			(uuid "2c135946-82e8-4729-93d0-47a5cb810744")
+		)
+		(instances
+			(project "laser-keyboard"
+				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
+					(reference "LED10")
 					(unit 1)
 				)
 			)
@@ -39831,173 +41000,6 @@
 		)
 	)
 	(symbol
-		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 146.05 353.06 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b0bc1cf0-c331-4075-b407-edb183be18fe")
-		(property "Reference" "LED9"
-			(at 160.02 345.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 160.02 347.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 170.18 350.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 170.18 353.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 170.18 355.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.88"
-			(at 170.18 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 170.18 360.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 170.18 363.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 170.18 365.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 170.18 368.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 170.18 370.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 170.18 373.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Testing Part Number" ""
-			(at 170.18 375.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Testing Price/Stock" ""
-			(at 170.18 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "f04dffb0-5410-42b4-bb90-85a9ce6c2d7e")
-		)
-		(pin "2"
-			(uuid "5c803f09-919e-471e-aad9-b4dbf8350931")
-		)
-		(pin "4"
-			(uuid "89de0f4d-0a38-4f24-8fd8-6163c88db720")
-		)
-		(pin "1"
-			(uuid "6eb16b08-0183-405f-88bb-a67d5a8e81f6")
-		)
-		(instances
-			(project "laser-keyboard"
-				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
-					(reference "LED9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_name "D_37")
 		(lib_id "Device:D")
 		(at 283.21 85.09 90)
@@ -40090,173 +41092,6 @@
 			(project "laser-keyboard"
 				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
 					(reference "D02_6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 368.3 353.06 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b2c30b6c-27f0-4ee0-8c49-6262a63dc7eb")
-		(property "Reference" "LED4"
-			(at 382.27 345.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 382.27 347.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 392.43 350.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 392.43 353.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 392.43 355.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.88"
-			(at 392.43 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 392.43 360.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 392.43 363.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 392.43 365.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 392.43 368.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 392.43 370.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 392.43 373.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Testing Part Number" ""
-			(at 392.43 375.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Testing Price/Stock" ""
-			(at 392.43 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "a851cee0-06ae-409e-baa5-95a196a3dd90")
-		)
-		(pin "2"
-			(uuid "3cdf21f4-12be-4e16-a5a1-c5e49ca2a6d4")
-		)
-		(pin "4"
-			(uuid "377a49cd-75cf-4650-98e9-07280d44050c")
-		)
-		(pin "1"
-			(uuid "9b3d0c46-98f1-4477-a2b6-02b9ebe1fbc9")
-		)
-		(instances
-			(project "laser-keyboard"
-				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
-					(reference "LED4")
 					(unit 1)
 				)
 			)
@@ -40842,173 +41677,6 @@
 			(project "laser-keyboard"
 				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
 					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 273.05 353.06 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bc2a98c4-276a-4cf7-b4c3-93ec66b51050")
-		(property "Reference" "LED5"
-			(at 287.02 345.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 287.02 347.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 297.18 350.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 297.18 353.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 297.18 355.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.88"
-			(at 297.18 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 297.18 360.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 297.18 363.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 297.18 365.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 297.18 368.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 297.18 370.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 297.18 373.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Testing Part Number" ""
-			(at 297.18 375.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Testing Price/Stock" ""
-			(at 297.18 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "a1fe3640-e4b8-41ca-8d48-f414ca64f431")
-		)
-		(pin "2"
-			(uuid "c144f1b7-b182-438c-b406-6c4f4b839732")
-		)
-		(pin "4"
-			(uuid "6785c54e-842d-4c9f-910a-53bd0bf620c9")
-		)
-		(pin "1"
-			(uuid "ec356dc2-6f2a-4204-87d4-58b7e5899a75")
-		)
-		(instances
-			(project "laser-keyboard"
-				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
-					(reference "LED5")
 					(unit 1)
 				)
 			)
@@ -41972,173 +42640,6 @@
 		)
 	)
 	(symbol
-		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 114.3 353.06 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ccf3626f-9d6a-4d40-bc3b-5908301cd695")
-		(property "Reference" "LED8"
-			(at 128.27 345.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 128.27 347.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 138.43 350.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 138.43 353.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 138.43 355.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.88"
-			(at 138.43 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 138.43 360.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 138.43 363.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 138.43 365.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 138.43 368.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 138.43 370.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 138.43 373.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Testing Part Number" ""
-			(at 138.43 375.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Testing Price/Stock" ""
-			(at 138.43 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "7f7b766e-07d8-4e82-91d8-3dead229db1d")
-		)
-		(pin "2"
-			(uuid "e355c0e5-ab1d-4520-ac01-452e83c4e510")
-		)
-		(pin "4"
-			(uuid "5acf8485-976b-4b82-99e0-964e79850759")
-		)
-		(pin "1"
-			(uuid "76b76459-b98f-48ac-936c-aae6d07ac8b4")
-		)
-		(instances
-			(project "laser-keyboard"
-				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
-					(reference "LED8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 201.93 105.41 0)
 		(unit 1)
@@ -42908,6 +43409,173 @@
 		)
 	)
 	(symbol
+		(lib_id "SK6812MINI-E:SK6812MINI-E")
+		(at 368.3 353.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d577baf8-daba-4f93-93f3-19ff756658a6")
+		(property "Reference" "LED3"
+			(at 382.27 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812MINI-E"
+			(at 382.27 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
+			(at 392.43 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
+			(at 392.43 353.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
+			(at 392.43 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.88"
+			(at 392.43 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Yellow Stone Corp."
+			(at 392.43 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SK6812MINI-E"
+			(at 392.43 363.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 392.43 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 392.43 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 392.43 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 392.43 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Testing Part Number" ""
+			(at 392.43 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Testing Price/Stock" ""
+			(at 392.43 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "a0737dc5-3ed8-4430-aa78-9b71c6037c93")
+		)
+		(pin "2"
+			(uuid "976adcb8-dc00-46bd-ad1b-90198bada9d5")
+		)
+		(pin "4"
+			(uuid "976de4a4-e1dd-45a7-8394-f163ab6e0270")
+		)
+		(pin "1"
+			(uuid "9228e60f-2405-4d60-833d-34147ddfa253")
+		)
+		(instances
+			(project "laser-keyboard"
+				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
+					(reference "LED3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 539.75 81.28 0)
 		(unit 1)
@@ -43565,340 +44233,6 @@
 		)
 	)
 	(symbol
-		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 336.55 353.06 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e0e78ceb-bf5c-4f22-bfb4-06a7f8c322da")
-		(property "Reference" "LED3"
-			(at 350.52 345.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 350.52 347.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 360.68 350.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 360.68 353.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 360.68 355.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.88"
-			(at 360.68 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 360.68 360.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 360.68 363.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 360.68 365.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 360.68 368.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 360.68 370.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 360.68 373.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Testing Part Number" ""
-			(at 360.68 375.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Testing Price/Stock" ""
-			(at 360.68 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "9eda5549-5e2b-401e-ad7d-6807f2401a89")
-		)
-		(pin "2"
-			(uuid "295e3491-69bd-4468-b139-6642be7d0878")
-		)
-		(pin "4"
-			(uuid "464bfe8a-5a93-4630-b7f6-67e5efd142e1")
-		)
-		(pin "1"
-			(uuid "a811cba7-c753-4f1a-b0af-170fab8a20d9")
-		)
-		(instances
-			(project "laser-keyboard"
-				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
-					(reference "LED3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 241.3 353.06 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e327aae5-278c-48b5-9f1d-62ac1cf552b2")
-		(property "Reference" "LED12"
-			(at 255.27 345.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 255.27 347.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 265.43 350.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 265.43 353.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 265.43 355.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.88"
-			(at 265.43 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 265.43 360.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 265.43 363.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 265.43 365.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 265.43 368.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 265.43 370.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 265.43 373.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Testing Part Number" ""
-			(at 265.43 375.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Testing Price/Stock" ""
-			(at 265.43 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "61b800f5-53d0-46bf-817c-ab5eef215690")
-		)
-		(pin "2"
-			(uuid "13eec028-c590-4e1e-a23a-81ccf25a2d86")
-		)
-		(pin "4"
-			(uuid "ad512f0e-9c88-4508-85d9-f53abb2b2b4c")
-		)
-		(pin "1"
-			(uuid "93b74c07-6d1d-41e3-90af-8aa7b3a54d47")
-		)
-		(instances
-			(project "laser-keyboard"
-				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
-					(reference "LED12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_name "D_1")
 		(lib_id "Device:D")
 		(at 544.83 143.51 90)
@@ -44480,173 +44814,6 @@
 			(project "laser-keyboard"
 				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
 					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 209.55 353.06 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "eca3fdd4-6ab7-4f99-b40a-e9440317a622")
-		(property "Reference" "LED11"
-			(at 223.52 345.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 223.52 347.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 233.68 350.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 233.68 353.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 233.68 355.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.88"
-			(at 233.68 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 233.68 360.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 233.68 363.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 233.68 365.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 233.68 368.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 233.68 370.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 233.68 373.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Testing Part Number" ""
-			(at 233.68 375.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Testing Price/Stock" ""
-			(at 233.68 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "27aee346-24f2-484a-85d6-e44d07e016ea")
-		)
-		(pin "2"
-			(uuid "a6746af9-1654-4bea-a92b-63c70410b98b")
-		)
-		(pin "4"
-			(uuid "d2393b6a-e666-4e88-b7b8-08c449217fca")
-		)
-		(pin "1"
-			(uuid "a675412f-0e59-4fe6-b250-216908e2a5f3")
-		)
-		(instances
-			(project "laser-keyboard"
-				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
-					(reference "LED11")
 					(unit 1)
 				)
 			)
@@ -45526,173 +45693,6 @@
 			(project "laser-keyboard"
 				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
 					(reference "R9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 177.8 353.06 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fa280ef3-2c69-47e6-bb90-57dcf025d43e")
-		(property "Reference" "LED10"
-			(at 191.77 345.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 191.77 347.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 201.93 350.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 201.93 353.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 201.93 355.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.88"
-			(at 201.93 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 201.93 360.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 201.93 363.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 201.93 365.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 201.93 368.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 201.93 370.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 201.93 373.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Testing Part Number" ""
-			(at 201.93 375.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Testing Price/Stock" ""
-			(at 201.93 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "9b04e475-845b-4225-afe9-76ac24364116")
-		)
-		(pin "2"
-			(uuid "36d0f402-7b85-416b-bbdf-376806d6e01a")
-		)
-		(pin "4"
-			(uuid "c5521c98-433a-451b-8aa1-21ebdaf3e19d")
-		)
-		(pin "1"
-			(uuid "60f1e372-c197-4b0c-913a-b88386117254")
-		)
-		(instances
-			(project "laser-keyboard"
-				(path "/7adb1c47-37fe-49cf-8774-15f3943070ef"
-					(reference "LED10")
 					(unit 1)
 				)
 			)
