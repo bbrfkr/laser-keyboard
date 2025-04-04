@@ -18634,7 +18634,7 @@
 		)
 	)
 	(junction
-		(at 209.55 341.63)
+		(at 160.02 356.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0042d0c5-9551-4c2a-9fc0-71cfc9c34fa4")
@@ -18682,13 +18682,13 @@
 		(uuid "0ef9484e-3729-426f-8345-609318c53336")
 	)
 	(junction
-		(at 173.99 360.68)
+		(at 124.46 375.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1143a75d-c94c-4edf-92db-877dbaed767d")
 	)
 	(junction
-		(at 176.53 365.76)
+		(at 127 381)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "12017255-9bb5-4085-9a7b-0c5d223d71c9")
@@ -18712,19 +18712,19 @@
 		(uuid "17e82f6f-5a54-4da3-ab81-e527d4c6a1b7")
 	)
 	(junction
-		(at 274.32 365.76)
+		(at 224.79 381)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a1dc63c-94de-4d7e-9456-398c659398d2")
 	)
 	(junction
-		(at 181.61 384.81)
+		(at 132.08 400.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a800ac2-1c9f-443c-8202-c216ee15dd82")
 	)
 	(junction
-		(at 241.3 341.63)
+		(at 191.77 356.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1b28bb13-f778-45ff-879a-f549b00e2856")
@@ -18742,7 +18742,7 @@
 		(uuid "1c39f12f-b0fa-4f20-a8a8-c31f571c8a4d")
 	)
 	(junction
-		(at 431.8 341.63)
+		(at 382.27 356.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1cb7c030-61e0-4e3c-8a77-17ac2fda2a93")
@@ -18754,19 +18754,19 @@
 		(uuid "1e6aee71-a293-44c7-92f2-c24e9903cb37")
 	)
 	(junction
-		(at 278.13 384.81)
+		(at 228.6 400.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1ece9aea-18cf-48e0-85db-ea6d428cab26")
 	)
 	(junction
-		(at 242.57 365.76)
+		(at 193.04 381)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1fd4866b-99b4-4054-8793-8fd7f0c9d905")
 	)
 	(junction
-		(at 364.49 360.68)
+		(at 314.96 375.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2317bbad-18f8-4080-862f-1b6a1df1e604")
@@ -18784,7 +18784,7 @@
 		(uuid "26a749e6-c998-4238-8aaf-e469c71b6748")
 	)
 	(junction
-		(at 337.82 365.76)
+		(at 288.29 381)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "27d2a738-dfaf-485a-90a4-0f06d58faae7")
@@ -18826,13 +18826,13 @@
 		(uuid "2c0f6bf4-63ff-49a6-9ed2-eeb0329d2355")
 	)
 	(junction
-		(at 115.57 384.81)
+		(at 66.04 400.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2e144df2-d0c5-4ea8-ab92-162d767d44bc")
 	)
 	(junction
-		(at 368.3 341.63)
+		(at 318.77 356.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "31a6c883-9f91-4939-956e-252ace1adf85")
@@ -18892,7 +18892,7 @@
 		(uuid "4335d146-0c15-424e-963d-5f3072b0c907")
 	)
 	(junction
-		(at 143.51 365.76)
+		(at 93.98 381)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "433ad2c3-88d8-4a65-8199-14ce24cc4647")
@@ -18922,7 +18922,7 @@
 		(uuid "4778522c-4520-49de-98a7-ff936282de78")
 	)
 	(junction
-		(at 209.55 365.76)
+		(at 160.02 381)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "47aa3213-cd24-4b6d-9541-a905d72ceb34")
@@ -18946,7 +18946,7 @@
 		(uuid "4915314b-f005-4825-8879-f2cf81e6840a")
 	)
 	(junction
-		(at 370.84 365.76)
+		(at 321.31 381)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "49d9c2f9-bede-45f4-942b-00c6e8cb0d66")
@@ -18988,13 +18988,13 @@
 		(uuid "4f586d86-8048-44bf-8489-94fe9b071cd6")
 	)
 	(junction
-		(at 469.9 373.38)
+		(at 420.37 388.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4fa7f5c5-8d3c-4658-8be9-36c6e41d438d")
 	)
 	(junction
-		(at 237.49 360.68)
+		(at 187.96 375.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4fb86188-09fa-4064-988b-812ea61e9baf")
@@ -19018,7 +19018,7 @@
 		(uuid "51ff4155-908e-4d4a-82b5-e10950e69dbb")
 	)
 	(junction
-		(at 177.8 341.63)
+		(at 128.27 356.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "52301d71-7bf6-4615-b3de-d42ddd93cd8d")
@@ -19042,7 +19042,7 @@
 		(uuid "5780691e-1e85-436e-affa-be05b0c9d545")
 	)
 	(junction
-		(at 427.99 360.68)
+		(at 378.46 375.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5b166732-6c06-4658-9901-41a1bc088990")
@@ -19180,13 +19180,13 @@
 		(uuid "894e2e9a-ae14-4738-b239-d6ce056e9d04")
 	)
 	(junction
-		(at 472.44 353.06)
+		(at 422.91 368.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8a0a3630-e4b7-4ff9-b6b8-cffe31c1e135")
 	)
 	(junction
-		(at 306.07 365.76)
+		(at 256.54 381)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8e8c3408-17aa-45ca-ac5c-0b3e0d41b83d")
@@ -19204,19 +19204,19 @@
 		(uuid "940be044-1369-40c0-926a-c5d7a8a8ae7b")
 	)
 	(junction
-		(at 332.74 360.68)
+		(at 283.21 375.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "950611c4-747d-4f49-953c-a422212bff17")
 	)
 	(junction
-		(at 402.59 365.76)
+		(at 353.06 381)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9510165a-c8cc-44af-b01b-cdffa2867499")
 	)
 	(junction
-		(at 273.05 341.63)
+		(at 223.52 356.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "97b55c22-1664-4945-952f-f43555c9963f")
@@ -19252,7 +19252,7 @@
 		(uuid "9d49c8ad-eeea-4071-91a4-4a0bff83dd4a")
 	)
 	(junction
-		(at 146.05 341.63)
+		(at 96.52 356.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9de8f9b8-7bb9-44fc-964a-fab1621e6a0c")
@@ -19270,7 +19270,7 @@
 		(uuid "a080de76-de2f-4da8-a412-f2af44f72c8c")
 	)
 	(junction
-		(at 459.74 360.68)
+		(at 410.21 375.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a0ced620-9471-49e8-b9e3-0ddbf2f37f40")
@@ -19336,7 +19336,7 @@
 		(uuid "ad3c1881-35f3-480e-9112-f3e3beebc4ce")
 	)
 	(junction
-		(at 400.05 341.63)
+		(at 350.52 356.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ad5fdd04-ec76-47ff-9508-a46a0a8d44e8")
@@ -19402,7 +19402,7 @@
 		(uuid "b5e2c59b-f128-498b-b1f3-beaeeafc8cf1")
 	)
 	(junction
-		(at 374.65 384.81)
+		(at 325.12 400.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5e4103e-bcb6-4035-a608-0fd3378dd55e")
@@ -19426,7 +19426,7 @@
 		(uuid "bbb4ac03-1548-4257-b512-feae6fff859f")
 	)
 	(junction
-		(at 214.63 384.81)
+		(at 165.1 400.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bda2e9cc-f2ad-4f1a-aee1-c9bf198dd7a2")
@@ -19462,7 +19462,7 @@
 		(uuid "c2da105e-9c96-4241-a05f-e3cea5a131bf")
 	)
 	(junction
-		(at 114.3 341.63)
+		(at 64.77 356.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c53bfb05-1e6b-49d7-b781-c8cff08751e6")
@@ -19474,19 +19474,19 @@
 		(uuid "ca2e286e-753c-42a1-81ac-40aaa832da98")
 	)
 	(junction
-		(at 396.24 360.68)
+		(at 346.71 375.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cb049695-6fdf-4cb2-bafe-bec82c2ebb9c")
 	)
 	(junction
-		(at 304.8 341.63)
+		(at 255.27 356.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cffbd02a-60f3-4008-8620-f2c4cf7ecbb2")
 	)
 	(junction
-		(at 300.99 360.68)
+		(at 251.46 375.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d01225a1-b170-49f0-a36a-0f3f648c98f9")
@@ -19522,7 +19522,7 @@
 		(uuid "d413823c-514b-4a3c-a0bb-bcce71451d8c")
 	)
 	(junction
-		(at 342.9 384.81)
+		(at 293.37 400.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d533acaf-92e7-4a2e-a816-1c2be30c902d")
@@ -19534,7 +19534,7 @@
 		(uuid "d7f0e48c-621b-48ad-96fb-cd21a77a9b58")
 	)
 	(junction
-		(at 309.88 384.81)
+		(at 260.35 400.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "daeb8f8b-7f09-497a-8657-b4c7ef5a90cf")
@@ -19570,7 +19570,7 @@
 		(uuid "e17a3d2d-fa67-4630-9488-2e7e62eaf72e")
 	)
 	(junction
-		(at 336.55 341.63)
+		(at 287.02 356.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e3cac4e6-fbdd-4433-be87-dcc7c3b3fee0")
@@ -19588,7 +19588,7 @@
 		(uuid "e7457fed-6400-4836-91d6-d7503018c114")
 	)
 	(junction
-		(at 205.74 360.68)
+		(at 156.21 375.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e78a9069-89fb-439c-abbf-43c309a5dc50")
@@ -19612,7 +19612,7 @@
 		(uuid "e9ab9ff7-9c9a-4b65-97f9-b02c8a1d336f")
 	)
 	(junction
-		(at 269.24 360.68)
+		(at 219.71 375.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ec1a74a6-39b6-4734-9695-48f990cf4398")
@@ -19660,13 +19660,13 @@
 		(uuid "f6d73727-b4b3-4863-b040-be8696749bd1")
 	)
 	(junction
-		(at 148.59 384.81)
+		(at 99.06 400.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f71150ec-b067-4658-a055-19d4d211fc55")
 	)
 	(junction
-		(at 246.38 384.81)
+		(at 196.85 400.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f713bdcf-1651-4421-b540-5b07ef432c91")
@@ -19690,7 +19690,7 @@
 		(uuid "f8c202c9-7221-489b-afb9-a5dbb5b0cbc2")
 	)
 	(junction
-		(at 142.24 360.68)
+		(at 92.71 375.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fa807d7b-8203-4e91-b291-ab89a79764cc")
@@ -19764,7 +19764,7 @@
 		(uuid "d25821e3-6298-4fa9-b022-b5e4c54e22d4")
 	)
 	(no_connect
-		(at 402.59 378.46)
+		(at 353.06 393.7)
 		(uuid "da753fac-9770-452c-b7f5-d2a71b7f7421")
 	)
 	(no_connect
@@ -19777,7 +19777,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 378.46) (xy 342.9 384.81)
+			(xy 293.37 393.7) (xy 293.37 400.05)
 		)
 		(stroke
 			(width 0)
@@ -19787,7 +19787,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 341.63) (xy 82.55 353.06)
+			(xy 33.02 356.87) (xy 33.02 368.3)
 		)
 		(stroke
 			(width 0)
@@ -19797,7 +19797,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 378.46) (xy 212.09 378.46)
+			(xy 160.02 393.7) (xy 162.56 393.7)
 		)
 		(stroke
 			(width 0)
@@ -19837,7 +19837,7 @@
 	)
 	(wire
 		(pts
-			(xy 332.74 355.6) (xy 332.74 360.68)
+			(xy 283.21 370.84) (xy 283.21 375.92)
 		)
 		(stroke
 			(width 0)
@@ -19847,7 +19847,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 341.63) (xy 241.3 353.06)
+			(xy 191.77 356.87) (xy 191.77 368.3)
 		)
 		(stroke
 			(width 0)
@@ -19857,7 +19857,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 355.6) (xy 177.8 355.6)
+			(xy 127 370.84) (xy 128.27 370.84)
 		)
 		(stroke
 			(width 0)
@@ -19887,7 +19887,7 @@
 	)
 	(wire
 		(pts
-			(xy 427.99 355.6) (xy 427.99 360.68)
+			(xy 378.46 370.84) (xy 378.46 375.92)
 		)
 		(stroke
 			(width 0)
@@ -19907,7 +19907,7 @@
 	)
 	(wire
 		(pts
-			(xy 459.74 355.6) (xy 459.74 360.68)
+			(xy 410.21 370.84) (xy 410.21 375.92)
 		)
 		(stroke
 			(width 0)
@@ -20047,7 +20047,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 378.46) (xy 146.05 375.92)
+			(xy 96.52 393.7) (xy 96.52 391.16)
 		)
 		(stroke
 			(width 0)
@@ -20057,7 +20057,7 @@
 	)
 	(wire
 		(pts
-			(xy 427.99 360.68) (xy 396.24 360.68)
+			(xy 378.46 375.92) (xy 346.71 375.92)
 		)
 		(stroke
 			(width 0)
@@ -20067,7 +20067,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 365.76) (xy 209.55 375.92)
+			(xy 160.02 381) (xy 160.02 391.16)
 		)
 		(stroke
 			(width 0)
@@ -20107,7 +20107,7 @@
 	)
 	(wire
 		(pts
-			(xy 396.24 353.06) (xy 398.78 353.06)
+			(xy 346.71 368.3) (xy 349.25 368.3)
 		)
 		(stroke
 			(width 0)
@@ -20127,7 +20127,7 @@
 	)
 	(wire
 		(pts
-			(xy 472.44 365.76) (xy 472.44 353.06)
+			(xy 422.91 381) (xy 422.91 368.3)
 		)
 		(stroke
 			(width 0)
@@ -20177,7 +20177,7 @@
 	)
 	(wire
 		(pts
-			(xy 300.99 360.68) (xy 269.24 360.68)
+			(xy 251.46 375.92) (xy 219.71 375.92)
 		)
 		(stroke
 			(width 0)
@@ -20187,7 +20187,7 @@
 	)
 	(wire
 		(pts
-			(xy 370.84 365.76) (xy 402.59 365.76)
+			(xy 321.31 381) (xy 353.06 381)
 		)
 		(stroke
 			(width 0)
@@ -20207,7 +20207,7 @@
 	)
 	(wire
 		(pts
-			(xy 332.74 353.06) (xy 335.28 353.06)
+			(xy 283.21 368.3) (xy 285.75 368.3)
 		)
 		(stroke
 			(width 0)
@@ -20217,7 +20217,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 378.46) (xy 246.38 384.81)
+			(xy 196.85 393.7) (xy 196.85 400.05)
 		)
 		(stroke
 			(width 0)
@@ -20237,7 +20237,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 341.63) (xy 114.3 341.63)
+			(xy 96.52 356.87) (xy 64.77 356.87)
 		)
 		(stroke
 			(width 0)
@@ -20257,7 +20257,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 378.46) (xy 276.86 378.46)
+			(xy 224.79 393.7) (xy 227.33 393.7)
 		)
 		(stroke
 			(width 0)
@@ -20317,7 +20317,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 353.06) (xy 240.03 353.06)
+			(xy 187.96 368.3) (xy 190.5 368.3)
 		)
 		(stroke
 			(width 0)
@@ -20327,7 +20327,7 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 365.76) (xy 242.57 375.92)
+			(xy 193.04 381) (xy 193.04 391.16)
 		)
 		(stroke
 			(width 0)
@@ -20337,7 +20337,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 353.06) (xy 208.28 355.6)
+			(xy 158.75 368.3) (xy 158.75 370.84)
 		)
 		(stroke
 			(width 0)
@@ -20357,7 +20357,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 378.46) (xy 113.03 378.46)
+			(xy 60.96 393.7) (xy 63.5 393.7)
 		)
 		(stroke
 			(width 0)
@@ -20387,7 +20387,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 384.81) (xy 181.61 384.81)
+			(xy 99.06 400.05) (xy 132.08 400.05)
 		)
 		(stroke
 			(width 0)
@@ -20427,7 +20427,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 378.46) (xy 146.05 378.46)
+			(xy 93.98 393.7) (xy 96.52 393.7)
 		)
 		(stroke
 			(width 0)
@@ -20457,7 +20457,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 378.46) (xy 113.03 375.92)
+			(xy 63.5 393.7) (xy 63.5 391.16)
 		)
 		(stroke
 			(width 0)
@@ -20467,7 +20467,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 375.92) (xy 340.36 378.46)
+			(xy 290.83 391.16) (xy 290.83 393.7)
 		)
 		(stroke
 			(width 0)
@@ -20487,7 +20487,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 365.76) (xy 242.57 365.76)
+			(xy 160.02 381) (xy 193.04 381)
 		)
 		(stroke
 			(width 0)
@@ -20507,7 +20507,7 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 353.06) (xy 335.28 355.6)
+			(xy 285.75 368.3) (xy 285.75 370.84)
 		)
 		(stroke
 			(width 0)
@@ -20517,7 +20517,7 @@
 	)
 	(wire
 		(pts
-			(xy 374.65 384.81) (xy 469.9 384.81)
+			(xy 325.12 400.05) (xy 420.37 400.05)
 		)
 		(stroke
 			(width 0)
@@ -20537,7 +20537,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 365.76) (xy 370.84 365.76)
+			(xy 288.29 381) (xy 321.31 381)
 		)
 		(stroke
 			(width 0)
@@ -20547,7 +20547,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 341.63) (xy 273.05 341.63)
+			(xy 255.27 356.87) (xy 223.52 356.87)
 		)
 		(stroke
 			(width 0)
@@ -20567,7 +20567,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 341.63) (xy 146.05 341.63)
+			(xy 128.27 356.87) (xy 96.52 356.87)
 		)
 		(stroke
 			(width 0)
@@ -20587,7 +20587,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 341.63) (xy 146.05 353.06)
+			(xy 96.52 356.87) (xy 96.52 368.3)
 		)
 		(stroke
 			(width 0)
@@ -20627,7 +20627,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 378.46) (xy 179.07 375.92)
+			(xy 129.54 393.7) (xy 129.54 391.16)
 		)
 		(stroke
 			(width 0)
@@ -20647,7 +20647,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 353.06) (xy 144.78 353.06)
+			(xy 92.71 368.3) (xy 95.25 368.3)
 		)
 		(stroke
 			(width 0)
@@ -20787,7 +20787,7 @@
 	)
 	(wire
 		(pts
-			(xy 306.07 365.76) (xy 306.07 375.92)
+			(xy 256.54 381) (xy 256.54 391.16)
 		)
 		(stroke
 			(width 0)
@@ -20807,7 +20807,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 360.68) (xy 110.49 360.68)
+			(xy 92.71 375.92) (xy 60.96 375.92)
 		)
 		(stroke
 			(width 0)
@@ -20827,7 +20827,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 341.63) (xy 82.55 341.63)
+			(xy 64.77 356.87) (xy 33.02 356.87)
 		)
 		(stroke
 			(width 0)
@@ -20837,7 +20837,7 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 355.6) (xy 336.55 355.6)
+			(xy 285.75 370.84) (xy 287.02 370.84)
 		)
 		(stroke
 			(width 0)
@@ -20877,7 +20877,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 341.63) (xy 304.8 353.06)
+			(xy 255.27 356.87) (xy 255.27 368.3)
 		)
 		(stroke
 			(width 0)
@@ -20987,7 +20987,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 353.06) (xy 271.78 355.6)
+			(xy 222.25 368.3) (xy 222.25 370.84)
 		)
 		(stroke
 			(width 0)
@@ -20997,7 +20997,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 384.81) (xy 342.9 384.81)
+			(xy 260.35 400.05) (xy 293.37 400.05)
 		)
 		(stroke
 			(width 0)
@@ -21017,7 +21017,7 @@
 	)
 	(wire
 		(pts
-			(xy 431.8 341.63) (xy 400.05 341.63)
+			(xy 382.27 356.87) (xy 350.52 356.87)
 		)
 		(stroke
 			(width 0)
@@ -21027,7 +21027,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 375.92) (xy 115.57 375.92)
+			(xy 63.5 391.16) (xy 66.04 391.16)
 		)
 		(stroke
 			(width 0)
@@ -21087,7 +21087,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 375.92) (xy 342.9 375.92)
+			(xy 290.83 391.16) (xy 293.37 391.16)
 		)
 		(stroke
 			(width 0)
@@ -21117,7 +21117,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 355.6) (xy 146.05 355.6)
+			(xy 95.25 370.84) (xy 96.52 370.84)
 		)
 		(stroke
 			(width 0)
@@ -21157,7 +21157,7 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 384.81) (xy 309.88 384.81)
+			(xy 228.6 400.05) (xy 260.35 400.05)
 		)
 		(stroke
 			(width 0)
@@ -21177,7 +21177,7 @@
 	)
 	(wire
 		(pts
-			(xy 398.78 353.06) (xy 398.78 355.6)
+			(xy 349.25 368.3) (xy 349.25 370.84)
 		)
 		(stroke
 			(width 0)
@@ -21187,7 +21187,7 @@
 	)
 	(wire
 		(pts
-			(xy 332.74 360.68) (xy 300.99 360.68)
+			(xy 283.21 375.92) (xy 251.46 375.92)
 		)
 		(stroke
 			(width 0)
@@ -21217,7 +21217,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 378.46) (xy 115.57 384.81)
+			(xy 66.04 393.7) (xy 66.04 400.05)
 		)
 		(stroke
 			(width 0)
@@ -21227,7 +21227,7 @@
 	)
 	(wire
 		(pts
-			(xy 469.9 384.81) (xy 469.9 373.38)
+			(xy 420.37 400.05) (xy 420.37 388.62)
 		)
 		(stroke
 			(width 0)
@@ -21247,7 +21247,7 @@
 	)
 	(wire
 		(pts
-			(xy 336.55 341.63) (xy 304.8 341.63)
+			(xy 287.02 356.87) (xy 255.27 356.87)
 		)
 		(stroke
 			(width 0)
@@ -21257,7 +21257,7 @@
 	)
 	(wire
 		(pts
-			(xy 469.9 360.68) (xy 459.74 360.68)
+			(xy 420.37 375.92) (xy 410.21 375.92)
 		)
 		(stroke
 			(width 0)
@@ -21297,7 +21297,7 @@
 	)
 	(wire
 		(pts
-			(xy 374.65 378.46) (xy 374.65 384.81)
+			(xy 325.12 393.7) (xy 325.12 400.05)
 		)
 		(stroke
 			(width 0)
@@ -21347,7 +21347,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 360.68) (xy 173.99 360.68)
+			(xy 156.21 375.92) (xy 124.46 375.92)
 		)
 		(stroke
 			(width 0)
@@ -21377,7 +21377,7 @@
 	)
 	(wire
 		(pts
-			(xy 367.03 353.06) (xy 367.03 355.6)
+			(xy 317.5 368.3) (xy 317.5 370.84)
 		)
 		(stroke
 			(width 0)
@@ -21417,7 +21417,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 353.06) (xy 240.03 355.6)
+			(xy 190.5 368.3) (xy 190.5 370.84)
 		)
 		(stroke
 			(width 0)
@@ -21427,7 +21427,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 375.92) (xy 110.49 365.76)
+			(xy 60.96 391.16) (xy 60.96 381)
 		)
 		(stroke
 			(width 0)
@@ -21437,7 +21437,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 384.81) (xy 374.65 384.81)
+			(xy 293.37 400.05) (xy 325.12 400.05)
 		)
 		(stroke
 			(width 0)
@@ -21447,7 +21447,7 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 353.06) (xy 367.03 353.06)
+			(xy 314.96 368.3) (xy 317.5 368.3)
 		)
 		(stroke
 			(width 0)
@@ -21457,7 +21457,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 384.81) (xy 278.13 384.81)
+			(xy 196.85 400.05) (xy 228.6 400.05)
 		)
 		(stroke
 			(width 0)
@@ -21477,7 +21477,7 @@
 	)
 	(wire
 		(pts
-			(xy 396.24 360.68) (xy 364.49 360.68)
+			(xy 346.71 375.92) (xy 314.96 375.92)
 		)
 		(stroke
 			(width 0)
@@ -21487,7 +21487,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 353.06) (xy 113.03 355.6)
+			(xy 63.5 368.3) (xy 63.5 370.84)
 		)
 		(stroke
 			(width 0)
@@ -21517,7 +21517,7 @@
 	)
 	(wire
 		(pts
-			(xy 398.78 355.6) (xy 400.05 355.6)
+			(xy 349.25 370.84) (xy 350.52 370.84)
 		)
 		(stroke
 			(width 0)
@@ -21557,7 +21557,7 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 375.92) (xy 309.88 375.92)
+			(xy 259.08 391.16) (xy 260.35 391.16)
 		)
 		(stroke
 			(width 0)
@@ -21567,7 +21567,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 353.06) (xy 176.53 355.6)
+			(xy 127 368.3) (xy 127 370.84)
 		)
 		(stroke
 			(width 0)
@@ -21577,7 +21577,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 341.63) (xy 209.55 353.06)
+			(xy 160.02 356.87) (xy 160.02 368.3)
 		)
 		(stroke
 			(width 0)
@@ -21607,7 +21607,7 @@
 	)
 	(wire
 		(pts
-			(xy 303.53 355.6) (xy 304.8 355.6)
+			(xy 254 370.84) (xy 255.27 370.84)
 		)
 		(stroke
 			(width 0)
@@ -21667,7 +21667,7 @@
 	)
 	(wire
 		(pts
-			(xy 303.53 353.06) (xy 303.53 355.6)
+			(xy 254 368.3) (xy 254 370.84)
 		)
 		(stroke
 			(width 0)
@@ -21677,7 +21677,7 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 378.46) (xy 308.61 375.92)
+			(xy 259.08 393.7) (xy 259.08 391.16)
 		)
 		(stroke
 			(width 0)
@@ -21737,7 +21737,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 375.92) (xy 148.59 375.92)
+			(xy 96.52 391.16) (xy 99.06 391.16)
 		)
 		(stroke
 			(width 0)
@@ -21777,7 +21777,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 355.6) (xy 173.99 360.68)
+			(xy 124.46 370.84) (xy 124.46 375.92)
 		)
 		(stroke
 			(width 0)
@@ -21837,7 +21837,7 @@
 	)
 	(wire
 		(pts
-			(xy 400.05 341.63) (xy 368.3 341.63)
+			(xy 350.52 356.87) (xy 318.77 356.87)
 		)
 		(stroke
 			(width 0)
@@ -21847,7 +21847,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 378.46) (xy 82.55 384.81)
+			(xy 33.02 393.7) (xy 33.02 400.05)
 		)
 		(stroke
 			(width 0)
@@ -21867,7 +21867,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 378.46) (xy 214.63 384.81)
+			(xy 165.1 393.7) (xy 165.1 400.05)
 		)
 		(stroke
 			(width 0)
@@ -21877,7 +21877,7 @@
 	)
 	(wire
 		(pts
-			(xy 306.07 365.76) (xy 337.82 365.76)
+			(xy 256.54 381) (xy 288.29 381)
 		)
 		(stroke
 			(width 0)
@@ -21917,7 +21917,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 355.6) (xy 237.49 360.68)
+			(xy 187.96 370.84) (xy 187.96 375.92)
 		)
 		(stroke
 			(width 0)
@@ -21927,7 +21927,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 365.76) (xy 337.82 375.92)
+			(xy 288.29 381) (xy 288.29 391.16)
 		)
 		(stroke
 			(width 0)
@@ -21937,7 +21937,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 355.6) (xy 241.3 355.6)
+			(xy 190.5 370.84) (xy 191.77 370.84)
 		)
 		(stroke
 			(width 0)
@@ -21967,7 +21967,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 341.63) (xy 114.3 353.06)
+			(xy 64.77 356.87) (xy 64.77 368.3)
 		)
 		(stroke
 			(width 0)
@@ -22007,7 +22007,7 @@
 	)
 	(wire
 		(pts
-			(xy 368.3 341.63) (xy 336.55 341.63)
+			(xy 318.77 356.87) (xy 287.02 356.87)
 		)
 		(stroke
 			(width 0)
@@ -22027,7 +22027,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 341.63) (xy 177.8 353.06)
+			(xy 128.27 356.87) (xy 128.27 368.3)
 		)
 		(stroke
 			(width 0)
@@ -22037,7 +22037,7 @@
 	)
 	(wire
 		(pts
-			(xy 336.55 341.63) (xy 336.55 353.06)
+			(xy 287.02 356.87) (xy 287.02 368.3)
 		)
 		(stroke
 			(width 0)
@@ -22067,7 +22067,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 355.6) (xy 142.24 360.68)
+			(xy 92.71 370.84) (xy 92.71 375.92)
 		)
 		(stroke
 			(width 0)
@@ -22077,7 +22077,7 @@
 	)
 	(wire
 		(pts
-			(xy 430.53 355.6) (xy 431.8 355.6)
+			(xy 381 370.84) (xy 382.27 370.84)
 		)
 		(stroke
 			(width 0)
@@ -22097,7 +22097,7 @@
 	)
 	(wire
 		(pts
-			(xy 400.05 341.63) (xy 400.05 353.06)
+			(xy 350.52 356.87) (xy 350.52 368.3)
 		)
 		(stroke
 			(width 0)
@@ -22117,7 +22117,7 @@
 	)
 	(wire
 		(pts
-			(xy 402.59 365.76) (xy 472.44 365.76)
+			(xy 353.06 381) (xy 422.91 381)
 		)
 		(stroke
 			(width 0)
@@ -22127,7 +22127,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 355.6) (xy 269.24 360.68)
+			(xy 219.71 370.84) (xy 219.71 375.92)
 		)
 		(stroke
 			(width 0)
@@ -22157,7 +22157,7 @@
 	)
 	(wire
 		(pts
-			(xy 370.84 378.46) (xy 373.38 378.46)
+			(xy 321.31 393.7) (xy 323.85 393.7)
 		)
 		(stroke
 			(width 0)
@@ -22177,7 +22177,7 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 378.46) (xy 245.11 378.46)
+			(xy 193.04 393.7) (xy 195.58 393.7)
 		)
 		(stroke
 			(width 0)
@@ -22187,7 +22187,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 360.68) (xy 205.74 360.68)
+			(xy 187.96 375.92) (xy 156.21 375.92)
 		)
 		(stroke
 			(width 0)
@@ -22197,7 +22197,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 365.76) (xy 143.51 365.76)
+			(xy 60.96 381) (xy 93.98 381)
 		)
 		(stroke
 			(width 0)
@@ -22217,7 +22217,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 353.06) (xy 144.78 355.6)
+			(xy 95.25 368.3) (xy 95.25 370.84)
 		)
 		(stroke
 			(width 0)
@@ -22227,7 +22227,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 341.63) (xy 177.8 341.63)
+			(xy 160.02 356.87) (xy 128.27 356.87)
 		)
 		(stroke
 			(width 0)
@@ -22277,7 +22277,7 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 375.92) (xy 374.65 375.92)
+			(xy 323.85 391.16) (xy 325.12 391.16)
 		)
 		(stroke
 			(width 0)
@@ -22307,7 +22307,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 378.46) (xy 148.59 384.81)
+			(xy 99.06 393.7) (xy 99.06 400.05)
 		)
 		(stroke
 			(width 0)
@@ -22327,7 +22327,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 375.92) (xy 181.61 375.92)
+			(xy 129.54 391.16) (xy 132.08 391.16)
 		)
 		(stroke
 			(width 0)
@@ -22347,7 +22347,7 @@
 	)
 	(wire
 		(pts
-			(xy 427.99 353.06) (xy 430.53 353.06)
+			(xy 378.46 368.3) (xy 381 368.3)
 		)
 		(stroke
 			(width 0)
@@ -22367,7 +22367,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 365.76) (xy 209.55 365.76)
+			(xy 127 381) (xy 160.02 381)
 		)
 		(stroke
 			(width 0)
@@ -22377,7 +22377,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 353.06) (xy 208.28 353.06)
+			(xy 156.21 368.3) (xy 158.75 368.3)
 		)
 		(stroke
 			(width 0)
@@ -22437,7 +22437,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 365.76) (xy 274.32 375.92)
+			(xy 224.79 381) (xy 224.79 391.16)
 		)
 		(stroke
 			(width 0)
@@ -22447,7 +22447,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 360.68) (xy 237.49 360.68)
+			(xy 219.71 375.92) (xy 187.96 375.92)
 		)
 		(stroke
 			(width 0)
@@ -22457,7 +22457,7 @@
 	)
 	(wire
 		(pts
-			(xy 367.03 355.6) (xy 368.3 355.6)
+			(xy 317.5 370.84) (xy 318.77 370.84)
 		)
 		(stroke
 			(width 0)
@@ -22507,7 +22507,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 365.76) (xy 143.51 375.92)
+			(xy 93.98 381) (xy 93.98 391.16)
 		)
 		(stroke
 			(width 0)
@@ -22527,7 +22527,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 353.06) (xy 113.03 353.06)
+			(xy 60.96 368.3) (xy 63.5 368.3)
 		)
 		(stroke
 			(width 0)
@@ -22537,7 +22537,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 375.92) (xy 278.13 375.92)
+			(xy 227.33 391.16) (xy 228.6 391.16)
 		)
 		(stroke
 			(width 0)
@@ -22547,7 +22547,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 378.46) (xy 179.07 378.46)
+			(xy 127 393.7) (xy 129.54 393.7)
 		)
 		(stroke
 			(width 0)
@@ -22557,7 +22557,7 @@
 	)
 	(wire
 		(pts
-			(xy 430.53 353.06) (xy 430.53 355.6)
+			(xy 381 368.3) (xy 381 370.84)
 		)
 		(stroke
 			(width 0)
@@ -22567,7 +22567,7 @@
 	)
 	(wire
 		(pts
-			(xy 306.07 378.46) (xy 308.61 378.46)
+			(xy 256.54 393.7) (xy 259.08 393.7)
 		)
 		(stroke
 			(width 0)
@@ -22627,7 +22627,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 353.06) (xy 176.53 353.06)
+			(xy 124.46 368.3) (xy 127 368.3)
 		)
 		(stroke
 			(width 0)
@@ -22657,7 +22657,7 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 360.68) (xy 332.74 360.68)
+			(xy 314.96 375.92) (xy 283.21 375.92)
 		)
 		(stroke
 			(width 0)
@@ -22667,7 +22667,7 @@
 	)
 	(wire
 		(pts
-			(xy 459.74 360.68) (xy 427.99 360.68)
+			(xy 410.21 375.92) (xy 378.46 375.92)
 		)
 		(stroke
 			(width 0)
@@ -22747,7 +22747,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 378.46) (xy 181.61 384.81)
+			(xy 132.08 393.7) (xy 132.08 400.05)
 		)
 		(stroke
 			(width 0)
@@ -22767,7 +22767,7 @@
 	)
 	(wire
 		(pts
-			(xy 472.44 341.63) (xy 431.8 341.63)
+			(xy 422.91 356.87) (xy 382.27 356.87)
 		)
 		(stroke
 			(width 0)
@@ -22777,7 +22777,7 @@
 	)
 	(wire
 		(pts
-			(xy 370.84 365.76) (xy 370.84 375.92)
+			(xy 321.31 381) (xy 321.31 391.16)
 		)
 		(stroke
 			(width 0)
@@ -22787,7 +22787,7 @@
 	)
 	(wire
 		(pts
-			(xy 300.99 353.06) (xy 303.53 353.06)
+			(xy 251.46 368.3) (xy 254 368.3)
 		)
 		(stroke
 			(width 0)
@@ -22797,7 +22797,7 @@
 	)
 	(wire
 		(pts
-			(xy 402.59 365.76) (xy 402.59 375.92)
+			(xy 353.06 381) (xy 353.06 391.16)
 		)
 		(stroke
 			(width 0)
@@ -22807,7 +22807,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 353.06) (xy 271.78 353.06)
+			(xy 219.71 368.3) (xy 222.25 368.3)
 		)
 		(stroke
 			(width 0)
@@ -22817,7 +22817,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 375.92) (xy 214.63 375.92)
+			(xy 162.56 391.16) (xy 165.1 391.16)
 		)
 		(stroke
 			(width 0)
@@ -22847,7 +22847,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 355.6) (xy 273.05 355.6)
+			(xy 222.25 370.84) (xy 223.52 370.84)
 		)
 		(stroke
 			(width 0)
@@ -22897,7 +22897,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 365.76) (xy 306.07 365.76)
+			(xy 224.79 381) (xy 256.54 381)
 		)
 		(stroke
 			(width 0)
@@ -22947,7 +22947,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 378.46) (xy 245.11 375.92)
+			(xy 195.58 393.7) (xy 195.58 391.16)
 		)
 		(stroke
 			(width 0)
@@ -22967,7 +22967,7 @@
 	)
 	(wire
 		(pts
-			(xy 273.05 341.63) (xy 241.3 341.63)
+			(xy 223.52 356.87) (xy 191.77 356.87)
 		)
 		(stroke
 			(width 0)
@@ -23007,7 +23007,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 355.6) (xy 82.55 375.92)
+			(xy 33.02 370.84) (xy 33.02 391.16)
 		)
 		(stroke
 			(width 0)
@@ -23017,7 +23017,7 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 365.76) (xy 274.32 365.76)
+			(xy 193.04 381) (xy 224.79 381)
 		)
 		(stroke
 			(width 0)
@@ -23047,7 +23047,7 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 378.46) (xy 373.38 375.92)
+			(xy 323.85 393.7) (xy 323.85 391.16)
 		)
 		(stroke
 			(width 0)
@@ -23067,7 +23067,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 365.76) (xy 176.53 375.92)
+			(xy 127 381) (xy 127 391.16)
 		)
 		(stroke
 			(width 0)
@@ -23097,7 +23097,7 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 355.6) (xy 364.49 360.68)
+			(xy 314.96 370.84) (xy 314.96 375.92)
 		)
 		(stroke
 			(width 0)
@@ -23117,7 +23117,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 355.6) (xy 205.74 360.68)
+			(xy 156.21 370.84) (xy 156.21 375.92)
 		)
 		(stroke
 			(width 0)
@@ -23127,7 +23127,7 @@
 	)
 	(wire
 		(pts
-			(xy 368.3 341.63) (xy 368.3 353.06)
+			(xy 318.77 356.87) (xy 318.77 368.3)
 		)
 		(stroke
 			(width 0)
@@ -23157,7 +23157,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 365.76) (xy 176.53 365.76)
+			(xy 93.98 381) (xy 127 381)
 		)
 		(stroke
 			(width 0)
@@ -23167,7 +23167,7 @@
 	)
 	(wire
 		(pts
-			(xy 431.8 341.63) (xy 431.8 353.06)
+			(xy 382.27 356.87) (xy 382.27 368.3)
 		)
 		(stroke
 			(width 0)
@@ -23237,7 +23237,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 360.68) (xy 110.49 355.6)
+			(xy 60.96 375.92) (xy 60.96 370.84)
 		)
 		(stroke
 			(width 0)
@@ -23257,7 +23257,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 384.81) (xy 246.38 384.81)
+			(xy 165.1 400.05) (xy 196.85 400.05)
 		)
 		(stroke
 			(width 0)
@@ -23267,7 +23267,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 384.81) (xy 214.63 384.81)
+			(xy 132.08 400.05) (xy 165.1 400.05)
 		)
 		(stroke
 			(width 0)
@@ -23287,7 +23287,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 355.6) (xy 209.55 355.6)
+			(xy 158.75 370.84) (xy 160.02 370.84)
 		)
 		(stroke
 			(width 0)
@@ -23307,7 +23307,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 378.46) (xy 309.88 384.81)
+			(xy 260.35 393.7) (xy 260.35 400.05)
 		)
 		(stroke
 			(width 0)
@@ -23317,7 +23317,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 355.6) (xy 114.3 355.6)
+			(xy 63.5 370.84) (xy 64.77 370.84)
 		)
 		(stroke
 			(width 0)
@@ -23337,7 +23337,7 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 378.46) (xy 278.13 384.81)
+			(xy 228.6 393.7) (xy 228.6 400.05)
 		)
 		(stroke
 			(width 0)
@@ -23357,7 +23357,7 @@
 	)
 	(wire
 		(pts
-			(xy 469.9 373.38) (xy 469.9 360.68)
+			(xy 420.37 388.62) (xy 420.37 375.92)
 		)
 		(stroke
 			(width 0)
@@ -23387,7 +23387,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 384.81) (xy 148.59 384.81)
+			(xy 66.04 400.05) (xy 99.06 400.05)
 		)
 		(stroke
 			(width 0)
@@ -23427,7 +23427,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 341.63) (xy 209.55 341.63)
+			(xy 191.77 356.87) (xy 160.02 356.87)
 		)
 		(stroke
 			(width 0)
@@ -23437,7 +23437,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 378.46) (xy 337.82 378.46)
+			(xy 290.83 393.7) (xy 288.29 393.7)
 		)
 		(stroke
 			(width 0)
@@ -23447,7 +23447,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 378.46) (xy 276.86 375.92)
+			(xy 227.33 393.7) (xy 227.33 391.16)
 		)
 		(stroke
 			(width 0)
@@ -23487,7 +23487,7 @@
 	)
 	(wire
 		(pts
-			(xy 472.44 353.06) (xy 472.44 341.63)
+			(xy 422.91 368.3) (xy 422.91 356.87)
 		)
 		(stroke
 			(width 0)
@@ -23507,7 +23507,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 360.68) (xy 142.24 360.68)
+			(xy 124.46 375.92) (xy 92.71 375.92)
 		)
 		(stroke
 			(width 0)
@@ -23527,7 +23527,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 384.81) (xy 115.57 384.81)
+			(xy 33.02 400.05) (xy 66.04 400.05)
 		)
 		(stroke
 			(width 0)
@@ -23537,7 +23537,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 375.92) (xy 246.38 375.92)
+			(xy 195.58 391.16) (xy 196.85 391.16)
 		)
 		(stroke
 			(width 0)
@@ -23547,7 +23547,7 @@
 	)
 	(wire
 		(pts
-			(xy 273.05 341.63) (xy 273.05 353.06)
+			(xy 223.52 356.87) (xy 223.52 368.3)
 		)
 		(stroke
 			(width 0)
@@ -23597,7 +23597,7 @@
 	)
 	(wire
 		(pts
-			(xy 300.99 355.6) (xy 300.99 360.68)
+			(xy 251.46 370.84) (xy 251.46 375.92)
 		)
 		(stroke
 			(width 0)
@@ -23617,7 +23617,7 @@
 	)
 	(wire
 		(pts
-			(xy 396.24 355.6) (xy 396.24 360.68)
+			(xy 346.71 370.84) (xy 346.71 375.92)
 		)
 		(stroke
 			(width 0)
@@ -23627,7 +23627,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 378.46) (xy 212.09 375.92)
+			(xy 162.56 393.7) (xy 162.56 391.16)
 		)
 		(stroke
 			(width 0)
@@ -23686,6 +23686,18 @@
 		(uuid "ffeb9b77-0240-4ea2-85c9-3849bdfcc3b7")
 	)
 	(rectangle
+		(start 15.24 331.47)
+		(end 468.63 403.86)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 374ca825-b07c-4381-b1fc-3affd7c2dbc5)
+	)
+	(rectangle
 		(start 154.94 191.77)
 		(end 209.55 273.05)
 		(stroke
@@ -23731,6 +23743,17 @@
 		)
 		(uuid "1ab56d1a-4dd8-4122-a941-025445e2566f")
 	)
+	(text "LED"
+		(exclude_from_sim no)
+		(at 207.264 349.25 0)
+		(effects
+			(font
+				(size 8 8)
+			)
+			(justify left bottom)
+		)
+		(uuid "32ea4fb1-4f24-4c03-9623-89e01cf788fb")
+	)
 	(text "Controller"
 		(exclude_from_sim no)
 		(at 58.42 43.18 0)
@@ -23775,7 +23798,7 @@
 		)
 		(uuid "eb2b7831-2d9f-48ca-a767-0dd4832b83e1")
 	)
-	(global_label "col06"
+	(global_label "col05"
 		(shape input)
 		(at 82.55 74.93 0)
 		(fields_autoplaced yes)
@@ -23787,7 +23810,7 @@
 		)
 		(uuid "03767193-1727-49ac-a7e6-0aa57283f777")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.285 74.8506 0)
+			(at 90.857 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23883,7 +23906,7 @@
 			)
 		)
 	)
-	(global_label "col03"
+	(global_label "col02"
 		(shape input)
 		(at 82.55 105.41 0)
 		(fields_autoplaced yes)
@@ -23895,7 +23918,7 @@
 		)
 		(uuid "131c029e-6830-4276-885d-ac59c529a383")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.285 105.3306 0)
+			(at 90.857 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23992,7 +24015,7 @@
 			)
 		)
 	)
-	(global_label "col01"
+	(global_label "col08"
 		(shape input)
 		(at 82.55 135.89 0)
 		(fields_autoplaced yes)
@@ -24014,7 +24037,7 @@
 			)
 		)
 	)
-	(global_label "col08"
+	(global_label "col07"
 		(shape input)
 		(at 82.55 138.43 0)
 		(fields_autoplaced yes)
@@ -24036,7 +24059,7 @@
 			)
 		)
 	)
-	(global_label "col01"
+	(global_label "col08"
 		(shape input)
 		(at 534.67 52.07 90)
 		(fields_autoplaced yes)
@@ -24256,7 +24279,7 @@
 			)
 		)
 	)
-	(global_label "col04"
+	(global_label "col03"
 		(shape input)
 		(at 82.55 110.49 0)
 		(fields_autoplaced yes)
@@ -24268,7 +24291,7 @@
 		)
 		(uuid "49c5eef2-cf3e-4b68-a2b1-c9c936db6dd2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.285 110.4106 0)
+			(at 90.857 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24321,7 +24344,7 @@
 			)
 		)
 	)
-	(global_label "col04"
+	(global_label "col03"
 		(shape input)
 		(at 222.25 52.07 90)
 		(fields_autoplaced yes)
@@ -24387,7 +24410,7 @@
 			)
 		)
 	)
-	(global_label "col06"
+	(global_label "col05"
 		(shape input)
 		(at 273.05 52.07 90)
 		(fields_autoplaced yes)
@@ -24561,7 +24584,7 @@
 			)
 		)
 	)
-	(global_label "col08"
+	(global_label "col07"
 		(shape input)
 		(at 322.58 52.07 90)
 		(fields_autoplaced yes)
@@ -24649,7 +24672,7 @@
 			)
 		)
 	)
-	(global_label "col07"
+	(global_label "col06"
 		(shape input)
 		(at 298.45 52.07 90)
 		(fields_autoplaced yes)
@@ -24715,7 +24738,7 @@
 			)
 		)
 	)
-	(global_label "col05"
+	(global_label "col04"
 		(shape input)
 		(at 247.65 52.07 90)
 		(fields_autoplaced yes)
@@ -24780,7 +24803,7 @@
 			)
 		)
 	)
-	(global_label "col05"
+	(global_label "col04"
 		(shape input)
 		(at 82.55 113.03 0)
 		(fields_autoplaced yes)
@@ -24792,7 +24815,7 @@
 		)
 		(uuid "99dac3e4-857a-4302-82fd-cc6e717396a8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.285 112.9506 0)
+			(at 90.857 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24802,7 +24825,7 @@
 			)
 		)
 	)
-	(global_label "col07"
+	(global_label "col06"
 		(shape input)
 		(at 82.55 107.95 0)
 		(fields_autoplaced yes)
@@ -24934,7 +24957,7 @@
 			)
 		)
 	)
-	(global_label "col02"
+	(global_label "col01"
 		(shape input)
 		(at 173.99 52.07 90)
 		(fields_autoplaced yes)
@@ -24956,7 +24979,7 @@
 			)
 		)
 	)
-	(global_label "col03"
+	(global_label "col02"
 		(shape input)
 		(at 196.85 52.07 90)
 		(fields_autoplaced yes)
@@ -25002,7 +25025,7 @@
 	)
 	(global_label "LED"
 		(shape input)
-		(at 459.74 353.06 0)
+		(at 410.21 368.3 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -25012,7 +25035,7 @@
 		)
 		(uuid "b348eca8-2333-4b9a-8579-35badc6dd977")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 466.1723 353.06 0)
+			(at 416.6423 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25285,7 +25308,7 @@
 			)
 		)
 	)
-	(global_label "col02"
+	(global_label "col01"
 		(shape input)
 		(at 82.55 100.33 0)
 		(fields_autoplaced yes)
@@ -25892,7 +25915,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 336.55 353.06 0)
+		(at 287.02 368.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25901,7 +25924,7 @@
 		(fields_autoplaced yes)
 		(uuid "062a50ab-e2ce-4597-9185-c16a2fb8143c")
 		(property "Reference" "LED4"
-			(at 350.52 345.44 0)
+			(at 300.99 360.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25909,7 +25932,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 350.52 347.98 0)
+			(at 300.99 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25917,7 +25940,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 360.68 350.52 0)
+			(at 311.15 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25927,7 +25950,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 360.68 353.06 0)
+			(at 311.15 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25937,7 +25960,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 360.68 355.6 0)
+			(at 311.15 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25947,7 +25970,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 360.68 358.14 0)
+			(at 311.15 373.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25957,7 +25980,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 360.68 360.68 0)
+			(at 311.15 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25967,7 +25990,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 360.68 363.22 0)
+			(at 311.15 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25977,7 +26000,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 360.68 365.76 0)
+			(at 311.15 381 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25987,7 +26010,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 360.68 368.3 0)
+			(at 311.15 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25997,7 +26020,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 360.68 370.84 0)
+			(at 311.15 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26007,7 +26030,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 360.68 373.38 0)
+			(at 311.15 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26017,7 +26040,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 360.68 375.92 0)
+			(at 311.15 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26027,7 +26050,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 360.68 378.46 0)
+			(at 311.15 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27949,7 +27972,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 82.55 353.06 0)
+		(at 33.02 368.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27958,7 +27981,7 @@
 		(fields_autoplaced yes)
 		(uuid "1d063dc2-e009-4c95-9ac6-115000a1e5e1")
 		(property "Reference" "LED12"
-			(at 96.52 345.44 0)
+			(at 46.99 360.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27966,7 +27989,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 96.52 347.98 0)
+			(at 46.99 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27974,7 +27997,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 106.68 350.52 0)
+			(at 57.15 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27984,7 +28007,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 106.68 353.06 0)
+			(at 57.15 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27994,7 +28017,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 106.68 355.6 0)
+			(at 57.15 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28004,7 +28027,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 106.68 358.14 0)
+			(at 57.15 373.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28014,7 +28037,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 106.68 360.68 0)
+			(at 57.15 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28024,7 +28047,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 106.68 363.22 0)
+			(at 57.15 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28034,7 +28057,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 106.68 365.76 0)
+			(at 57.15 381 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28044,7 +28067,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 106.68 368.3 0)
+			(at 57.15 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28054,7 +28077,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 106.68 370.84 0)
+			(at 57.15 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28064,7 +28087,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 106.68 373.38 0)
+			(at 57.15 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28074,7 +28097,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 106.68 375.92 0)
+			(at 57.15 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28084,7 +28107,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 106.68 378.46 0)
+			(at 57.15 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28116,7 +28139,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 304.8 353.06 0)
+		(at 255.27 368.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28125,7 +28148,7 @@
 		(fields_autoplaced yes)
 		(uuid "1e27ab27-04eb-488e-87c1-5ddb609189f4")
 		(property "Reference" "LED5"
-			(at 318.77 345.44 0)
+			(at 269.24 360.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28133,7 +28156,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 318.77 347.98 0)
+			(at 269.24 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28141,7 +28164,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 328.93 350.52 0)
+			(at 279.4 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28151,7 +28174,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 328.93 353.06 0)
+			(at 279.4 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28161,7 +28184,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 328.93 355.6 0)
+			(at 279.4 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28171,7 +28194,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 328.93 358.14 0)
+			(at 279.4 373.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28181,7 +28204,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 328.93 360.68 0)
+			(at 279.4 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28191,7 +28214,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 328.93 363.22 0)
+			(at 279.4 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28201,7 +28224,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 328.93 365.76 0)
+			(at 279.4 381 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28211,7 +28234,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 328.93 368.3 0)
+			(at 279.4 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28221,7 +28244,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 328.93 370.84 0)
+			(at 279.4 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28231,7 +28254,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 328.93 373.38 0)
+			(at 279.4 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28241,7 +28264,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 328.93 375.92 0)
+			(at 279.4 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28251,7 +28274,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 328.93 378.46 0)
+			(at 279.4 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28502,7 +28525,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 209.55 375.92 0)
+		(at 160.02 391.16 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -28512,7 +28535,7 @@
 		(fields_autoplaced yes)
 		(uuid "244a9480-d466-47f2-9d44-3a51111c6c92")
 		(property "Reference" "LED16"
-			(at 195.58 368.3 0)
+			(at 146.05 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28520,7 +28543,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 195.58 370.84 0)
+			(at 146.05 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28528,7 +28551,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 185.42 373.38 0)
+			(at 135.89 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28538,7 +28561,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 185.42 375.92 0)
+			(at 135.89 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28548,7 +28571,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 185.42 378.46 0)
+			(at 135.89 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28558,7 +28581,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 185.42 381 0)
+			(at 135.89 396.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28568,7 +28591,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 185.42 383.54 0)
+			(at 135.89 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28578,7 +28601,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 185.42 386.08 0)
+			(at 135.89 401.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28588,7 +28611,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 185.42 388.62 0)
+			(at 135.89 403.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28598,7 +28621,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 185.42 391.16 0)
+			(at 135.89 406.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28608,7 +28631,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 185.42 393.7 0)
+			(at 135.89 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28618,7 +28641,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 185.42 396.24 0)
+			(at 135.89 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28628,7 +28651,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 185.42 398.78 0)
+			(at 135.89 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28638,7 +28661,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 185.42 401.32 0)
+			(at 135.89 416.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28964,7 +28987,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 400.05 353.06 0)
+		(at 350.52 368.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28973,7 +28996,7 @@
 		(fields_autoplaced yes)
 		(uuid "29d3d372-7e5e-4d5b-986d-a665c27ceb91")
 		(property "Reference" "LED2"
-			(at 414.02 345.44 0)
+			(at 364.49 360.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28981,7 +29004,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 414.02 347.98 0)
+			(at 364.49 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28989,7 +29012,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 424.18 350.52 0)
+			(at 374.65 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28999,7 +29022,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 424.18 353.06 0)
+			(at 374.65 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29009,7 +29032,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 424.18 355.6 0)
+			(at 374.65 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29019,7 +29042,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 424.18 358.14 0)
+			(at 374.65 373.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29029,7 +29052,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 424.18 360.68 0)
+			(at 374.65 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29039,7 +29062,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 424.18 363.22 0)
+			(at 374.65 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29049,7 +29072,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 424.18 365.76 0)
+			(at 374.65 381 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29059,7 +29082,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 424.18 368.3 0)
+			(at 374.65 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29069,7 +29092,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 424.18 370.84 0)
+			(at 374.65 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29079,7 +29102,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 424.18 373.38 0)
+			(at 374.65 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29089,7 +29112,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 424.18 375.92 0)
+			(at 374.65 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29099,7 +29122,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 424.18 378.46 0)
+			(at 374.65 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29984,7 +30007,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 114.3 353.06 0)
+		(at 64.77 368.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29993,7 +30016,7 @@
 		(fields_autoplaced yes)
 		(uuid "3d65c080-843d-41cd-9543-853437c12b85")
 		(property "Reference" "LED11"
-			(at 128.27 345.44 0)
+			(at 78.74 360.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30001,7 +30024,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 128.27 347.98 0)
+			(at 78.74 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30009,7 +30032,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 138.43 350.52 0)
+			(at 88.9 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30019,7 +30042,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 138.43 353.06 0)
+			(at 88.9 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30029,7 +30052,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 138.43 355.6 0)
+			(at 88.9 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30039,7 +30062,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 138.43 358.14 0)
+			(at 88.9 373.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30049,7 +30072,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 138.43 360.68 0)
+			(at 88.9 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30059,7 +30082,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 138.43 363.22 0)
+			(at 88.9 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30069,7 +30092,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 138.43 365.76 0)
+			(at 88.9 381 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30079,7 +30102,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 138.43 368.3 0)
+			(at 88.9 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30089,7 +30112,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 138.43 370.84 0)
+			(at 88.9 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30099,7 +30122,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 138.43 373.38 0)
+			(at 88.9 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30109,7 +30132,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 138.43 375.92 0)
+			(at 88.9 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30119,7 +30142,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 138.43 378.46 0)
+			(at 88.9 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30713,7 +30736,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 209.55 353.06 0)
+		(at 160.02 368.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -30722,7 +30745,7 @@
 		(fields_autoplaced yes)
 		(uuid "43193b8b-5ac8-44cf-80b6-8223f20feb34")
 		(property "Reference" "LED8"
-			(at 223.52 345.44 0)
+			(at 173.99 360.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30730,7 +30753,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 223.52 347.98 0)
+			(at 173.99 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30738,7 +30761,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 233.68 350.52 0)
+			(at 184.15 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30748,7 +30771,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 233.68 353.06 0)
+			(at 184.15 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30758,7 +30781,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 233.68 355.6 0)
+			(at 184.15 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30768,7 +30791,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 233.68 358.14 0)
+			(at 184.15 373.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30778,7 +30801,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 233.68 360.68 0)
+			(at 184.15 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30788,7 +30811,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 233.68 363.22 0)
+			(at 184.15 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30798,7 +30821,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 233.68 365.76 0)
+			(at 184.15 381 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30808,7 +30831,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 233.68 368.3 0)
+			(at 184.15 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30818,7 +30841,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 233.68 370.84 0)
+			(at 184.15 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30828,7 +30851,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 233.68 373.38 0)
+			(at 184.15 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30838,7 +30861,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 233.68 375.92 0)
+			(at 184.15 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30848,7 +30871,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 233.68 378.46 0)
+			(at 184.15 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31840,7 +31863,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 143.51 375.92 0)
+		(at 93.98 391.16 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -31850,7 +31873,7 @@
 		(fields_autoplaced yes)
 		(uuid "4fac0a6c-a179-4a4c-ba54-e6a45e6fed09")
 		(property "Reference" "LED14"
-			(at 129.54 368.3 0)
+			(at 80.01 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31858,7 +31881,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 129.54 370.84 0)
+			(at 80.01 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31866,7 +31889,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 119.38 373.38 0)
+			(at 69.85 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31876,7 +31899,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 119.38 375.92 0)
+			(at 69.85 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31886,7 +31909,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 119.38 378.46 0)
+			(at 69.85 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31896,7 +31919,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 119.38 381 0)
+			(at 69.85 396.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31906,7 +31929,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 119.38 383.54 0)
+			(at 69.85 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31916,7 +31939,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 119.38 386.08 0)
+			(at 69.85 401.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31926,7 +31949,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 119.38 388.62 0)
+			(at 69.85 403.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31936,7 +31959,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 119.38 391.16 0)
+			(at 69.85 406.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31946,7 +31969,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 119.38 393.7 0)
+			(at 69.85 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31956,7 +31979,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 119.38 396.24 0)
+			(at 69.85 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31966,7 +31989,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 119.38 398.78 0)
+			(at 69.85 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31976,7 +31999,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 119.38 401.32 0)
+			(at 69.85 416.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32151,7 +32174,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 177.8 353.06 0)
+		(at 128.27 368.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32160,7 +32183,7 @@
 		(fields_autoplaced yes)
 		(uuid "54a8b546-cbeb-45a6-b6e6-7708a6d7467a")
 		(property "Reference" "LED9"
-			(at 191.77 345.44 0)
+			(at 142.24 360.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32168,7 +32191,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 191.77 347.98 0)
+			(at 142.24 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32176,7 +32199,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 201.93 350.52 0)
+			(at 152.4 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32186,7 +32209,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 201.93 353.06 0)
+			(at 152.4 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32196,7 +32219,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 201.93 355.6 0)
+			(at 152.4 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32206,7 +32229,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 201.93 358.14 0)
+			(at 152.4 373.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32216,7 +32239,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 201.93 360.68 0)
+			(at 152.4 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32226,7 +32249,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 201.93 363.22 0)
+			(at 152.4 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32236,7 +32259,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 201.93 365.76 0)
+			(at 152.4 381 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32246,7 +32269,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 201.93 368.3 0)
+			(at 152.4 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32256,7 +32279,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 201.93 370.84 0)
+			(at 152.4 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32266,7 +32289,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 201.93 373.38 0)
+			(at 152.4 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32276,7 +32299,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 201.93 375.92 0)
+			(at 152.4 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32286,7 +32309,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 201.93 378.46 0)
+			(at 152.4 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32940,7 +32963,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 273.05 353.06 0)
+		(at 223.52 368.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32949,7 +32972,7 @@
 		(fields_autoplaced yes)
 		(uuid "5fb1785e-6859-4887-bf53-505027cc86d6")
 		(property "Reference" "LED6"
-			(at 287.02 345.44 0)
+			(at 237.49 360.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32957,7 +32980,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 287.02 347.98 0)
+			(at 237.49 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32965,7 +32988,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 297.18 350.52 0)
+			(at 247.65 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32975,7 +32998,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 297.18 353.06 0)
+			(at 247.65 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32985,7 +33008,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 297.18 355.6 0)
+			(at 247.65 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32995,7 +33018,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 297.18 358.14 0)
+			(at 247.65 373.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33005,7 +33028,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 297.18 360.68 0)
+			(at 247.65 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33015,7 +33038,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 297.18 363.22 0)
+			(at 247.65 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33025,7 +33048,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 297.18 365.76 0)
+			(at 247.65 381 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33035,7 +33058,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 297.18 368.3 0)
+			(at 247.65 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33045,7 +33068,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 297.18 370.84 0)
+			(at 247.65 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33055,7 +33078,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 297.18 373.38 0)
+			(at 247.65 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33065,7 +33088,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 297.18 375.92 0)
+			(at 247.65 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33075,7 +33098,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 297.18 378.46 0)
+			(at 247.65 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33446,7 +33469,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 472.44 353.06 270)
+		(at 422.91 368.3 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33455,7 +33478,7 @@
 		(fields_autoplaced yes)
 		(uuid "634b4bc4-a2db-438a-92b6-73ebc8a11009")
 		(property "Reference" "#PWR044"
-			(at 468.63 353.06 0)
+			(at 419.1 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33464,7 +33487,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 476.25 353.0599 90)
+			(at 426.72 368.2999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33473,7 +33496,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 472.44 353.06 0)
+			(at 422.91 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33482,7 +33505,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 472.44 353.06 0)
+			(at 422.91 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33491,7 +33514,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 472.44 353.06 0)
+			(at 422.91 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34887,7 +34910,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 306.07 375.92 0)
+		(at 256.54 391.16 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -34897,7 +34920,7 @@
 		(fields_autoplaced yes)
 		(uuid "76569cb9-0706-4a89-9fd7-b5c03f844ac0")
 		(property "Reference" "LED19"
-			(at 292.1 368.3 0)
+			(at 242.57 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34905,7 +34928,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 292.1 370.84 0)
+			(at 242.57 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34913,7 +34936,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 281.94 373.38 0)
+			(at 232.41 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34923,7 +34946,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 281.94 375.92 0)
+			(at 232.41 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34933,7 +34956,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 281.94 378.46 0)
+			(at 232.41 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34943,7 +34966,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 281.94 381 0)
+			(at 232.41 396.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34953,7 +34976,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 281.94 383.54 0)
+			(at 232.41 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34963,7 +34986,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 281.94 386.08 0)
+			(at 232.41 401.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34973,7 +34996,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 281.94 388.62 0)
+			(at 232.41 403.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34983,7 +35006,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 281.94 391.16 0)
+			(at 232.41 406.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34993,7 +35016,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 281.94 393.7 0)
+			(at 232.41 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35003,7 +35026,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 281.94 396.24 0)
+			(at 232.41 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35013,7 +35036,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 281.94 398.78 0)
+			(at 232.41 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35023,7 +35046,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 281.94 401.32 0)
+			(at 232.41 416.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35671,7 +35694,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 241.3 353.06 0)
+		(at 191.77 368.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35680,7 +35703,7 @@
 		(fields_autoplaced yes)
 		(uuid "7c7f2c37-3ffa-4eca-b451-45b684326845")
 		(property "Reference" "LED7"
-			(at 255.27 345.44 0)
+			(at 205.74 360.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35688,7 +35711,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 255.27 347.98 0)
+			(at 205.74 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35696,7 +35719,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 265.43 350.52 0)
+			(at 215.9 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35706,7 +35729,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 265.43 353.06 0)
+			(at 215.9 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35716,7 +35739,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 265.43 355.6 0)
+			(at 215.9 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35726,7 +35749,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 265.43 358.14 0)
+			(at 215.9 373.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35736,7 +35759,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 265.43 360.68 0)
+			(at 215.9 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35746,7 +35769,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 265.43 363.22 0)
+			(at 215.9 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35756,7 +35779,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 265.43 365.76 0)
+			(at 215.9 381 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35766,7 +35789,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 265.43 368.3 0)
+			(at 215.9 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35776,7 +35799,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 265.43 370.84 0)
+			(at 215.9 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35786,7 +35809,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 265.43 373.38 0)
+			(at 215.9 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35796,7 +35819,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 265.43 375.92 0)
+			(at 215.9 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35806,7 +35829,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 265.43 378.46 0)
+			(at 215.9 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36955,7 +36978,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 146.05 353.06 0)
+		(at 96.52 368.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36964,7 +36987,7 @@
 		(fields_autoplaced yes)
 		(uuid "8a0922c5-f012-409a-a3bb-ee1a8c7675cf")
 		(property "Reference" "LED10"
-			(at 160.02 345.44 0)
+			(at 110.49 360.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36972,7 +36995,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 160.02 347.98 0)
+			(at 110.49 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36980,7 +37003,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 170.18 350.52 0)
+			(at 120.65 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36990,7 +37013,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 170.18 353.06 0)
+			(at 120.65 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37000,7 +37023,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 170.18 355.6 0)
+			(at 120.65 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37010,7 +37033,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 170.18 358.14 0)
+			(at 120.65 373.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37020,7 +37043,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 170.18 360.68 0)
+			(at 120.65 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37030,7 +37053,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 170.18 363.22 0)
+			(at 120.65 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37040,7 +37063,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 170.18 365.76 0)
+			(at 120.65 381 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37050,7 +37073,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 170.18 368.3 0)
+			(at 120.65 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37060,7 +37083,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 170.18 370.84 0)
+			(at 120.65 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37070,7 +37093,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 170.18 373.38 0)
+			(at 120.65 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37080,7 +37103,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 170.18 375.92 0)
+			(at 120.65 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37090,7 +37113,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 170.18 378.46 0)
+			(at 120.65 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37122,7 +37145,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 431.8 353.06 0)
+		(at 382.27 368.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -37131,7 +37154,7 @@
 		(fields_autoplaced yes)
 		(uuid "8aefb317-c878-4d35-a4e1-e2dbf6df573c")
 		(property "Reference" "LED1"
-			(at 445.77 345.44 0)
+			(at 396.24 360.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37139,7 +37162,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 445.77 347.98 0)
+			(at 396.24 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37147,7 +37170,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 455.93 350.52 0)
+			(at 406.4 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37157,7 +37180,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 455.93 353.06 0)
+			(at 406.4 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37167,7 +37190,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 455.93 355.6 0)
+			(at 406.4 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37177,7 +37200,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 455.93 358.14 0)
+			(at 406.4 373.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37187,7 +37210,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 455.93 360.68 0)
+			(at 406.4 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37197,7 +37220,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 455.93 363.22 0)
+			(at 406.4 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37207,7 +37230,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 455.93 365.76 0)
+			(at 406.4 381 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37217,7 +37240,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 455.93 368.3 0)
+			(at 406.4 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37227,7 +37250,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 455.93 370.84 0)
+			(at 406.4 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37237,7 +37260,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 455.93 373.38 0)
+			(at 406.4 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37247,7 +37270,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 455.93 375.92 0)
+			(at 406.4 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37257,7 +37280,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 455.93 378.46 0)
+			(at 406.4 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37768,7 +37791,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 110.49 375.92 0)
+		(at 60.96 391.16 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -37778,7 +37801,7 @@
 		(fields_autoplaced yes)
 		(uuid "93d03b57-bea7-4338-a13a-97560489194d")
 		(property "Reference" "LED13"
-			(at 96.52 368.3 0)
+			(at 46.99 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37786,7 +37809,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 96.52 370.84 0)
+			(at 46.99 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37794,7 +37817,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 86.36 373.38 0)
+			(at 36.83 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37804,7 +37827,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 86.36 375.92 0)
+			(at 36.83 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37814,7 +37837,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 86.36 378.46 0)
+			(at 36.83 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37824,7 +37847,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 86.36 381 0)
+			(at 36.83 396.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37834,7 +37857,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 86.36 383.54 0)
+			(at 36.83 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37844,7 +37867,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 86.36 386.08 0)
+			(at 36.83 401.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37854,7 +37877,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 86.36 388.62 0)
+			(at 36.83 403.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37864,7 +37887,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 86.36 391.16 0)
+			(at 36.83 406.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37874,7 +37897,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 86.36 393.7 0)
+			(at 36.83 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37884,7 +37907,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 86.36 396.24 0)
+			(at 36.83 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37894,7 +37917,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 86.36 398.78 0)
+			(at 36.83 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37904,7 +37927,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 86.36 401.32 0)
+			(at 36.83 416.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38470,7 +38493,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 337.82 375.92 0)
+		(at 288.29 391.16 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -38480,7 +38503,7 @@
 		(fields_autoplaced yes)
 		(uuid "9a9a1ce3-6536-4cf2-9de2-338f920a6416")
 		(property "Reference" "LED20"
-			(at 323.85 368.3 0)
+			(at 274.32 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38488,7 +38511,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 323.85 370.84 0)
+			(at 274.32 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38496,7 +38519,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 313.69 373.38 0)
+			(at 264.16 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38506,7 +38529,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 313.69 375.92 0)
+			(at 264.16 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38516,7 +38539,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 313.69 378.46 0)
+			(at 264.16 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38526,7 +38549,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 313.69 381 0)
+			(at 264.16 396.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38536,7 +38559,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 313.69 383.54 0)
+			(at 264.16 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38546,7 +38569,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 313.69 386.08 0)
+			(at 264.16 401.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38556,7 +38579,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 313.69 388.62 0)
+			(at 264.16 403.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38566,7 +38589,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 313.69 391.16 0)
+			(at 264.16 406.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38576,7 +38599,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 313.69 393.7 0)
+			(at 264.16 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38586,7 +38609,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 313.69 396.24 0)
+			(at 264.16 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38596,7 +38619,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 313.69 398.78 0)
+			(at 264.16 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38606,7 +38629,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 313.69 401.32 0)
+			(at 264.16 416.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40293,7 +40316,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 402.59 375.92 0)
+		(at 353.06 391.16 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -40303,7 +40326,7 @@
 		(fields_autoplaced yes)
 		(uuid "ad1f01fb-becb-419a-9daf-cdaa604ba3d7")
 		(property "Reference" "LED22"
-			(at 388.62 368.3 0)
+			(at 339.09 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40311,7 +40334,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 388.62 370.84 0)
+			(at 339.09 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40319,7 +40342,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 378.46 373.38 0)
+			(at 328.93 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40329,7 +40352,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 378.46 375.92 0)
+			(at 328.93 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40339,7 +40362,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 378.46 378.46 0)
+			(at 328.93 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40349,7 +40372,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 378.46 381 0)
+			(at 328.93 396.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40359,7 +40382,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 378.46 383.54 0)
+			(at 328.93 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40369,7 +40392,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 378.46 386.08 0)
+			(at 328.93 401.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40379,7 +40402,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 378.46 388.62 0)
+			(at 328.93 403.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40389,7 +40412,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 378.46 391.16 0)
+			(at 328.93 406.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40399,7 +40422,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 378.46 393.7 0)
+			(at 328.93 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40409,7 +40432,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 378.46 396.24 0)
+			(at 328.93 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40419,7 +40442,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 378.46 398.78 0)
+			(at 328.93 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40429,7 +40452,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 378.46 401.32 0)
+			(at 328.93 416.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40461,7 +40484,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 274.32 375.92 0)
+		(at 224.79 391.16 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -40471,7 +40494,7 @@
 		(fields_autoplaced yes)
 		(uuid "ae83b820-5aaf-4e79-a064-0218516355df")
 		(property "Reference" "LED18"
-			(at 260.35 368.3 0)
+			(at 210.82 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40479,7 +40502,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 260.35 370.84 0)
+			(at 210.82 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40487,7 +40510,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 250.19 373.38 0)
+			(at 200.66 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40497,7 +40520,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 250.19 375.92 0)
+			(at 200.66 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40507,7 +40530,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 250.19 378.46 0)
+			(at 200.66 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40517,7 +40540,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 250.19 381 0)
+			(at 200.66 396.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40527,7 +40550,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 250.19 383.54 0)
+			(at 200.66 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40537,7 +40560,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 250.19 386.08 0)
+			(at 200.66 401.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40547,7 +40570,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 250.19 388.62 0)
+			(at 200.66 403.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40557,7 +40580,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 250.19 391.16 0)
+			(at 200.66 406.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40567,7 +40590,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 250.19 393.7 0)
+			(at 200.66 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40577,7 +40600,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 250.19 396.24 0)
+			(at 200.66 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40587,7 +40610,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 250.19 398.78 0)
+			(at 200.66 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40597,7 +40620,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 250.19 401.32 0)
+			(at 200.66 416.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42420,7 +42443,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 469.9 373.38 90)
+		(at 420.37 388.62 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -42429,7 +42452,7 @@
 		(fields_autoplaced yes)
 		(uuid "c98d84b6-c0d5-4b36-a7c3-d52cfcfd1dab")
 		(property "Reference" "#PWR045"
-			(at 476.25 373.38 0)
+			(at 426.72 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42438,7 +42461,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 473.71 373.3799 90)
+			(at 424.18 388.6199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42447,7 +42470,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 469.9 373.38 0)
+			(at 420.37 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42456,7 +42479,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 469.9 373.38 0)
+			(at 420.37 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42465,7 +42488,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 469.9 373.38 0)
+			(at 420.37 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43410,7 +43433,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 368.3 353.06 0)
+		(at 318.77 368.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -43419,7 +43442,7 @@
 		(fields_autoplaced yes)
 		(uuid "d577baf8-daba-4f93-93f3-19ff756658a6")
 		(property "Reference" "LED3"
-			(at 382.27 345.44 0)
+			(at 332.74 360.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43427,7 +43450,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 382.27 347.98 0)
+			(at 332.74 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43435,7 +43458,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 392.43 350.52 0)
+			(at 342.9 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43445,7 +43468,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 392.43 353.06 0)
+			(at 342.9 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43455,7 +43478,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 392.43 355.6 0)
+			(at 342.9 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43465,7 +43488,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 392.43 358.14 0)
+			(at 342.9 373.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43475,7 +43498,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 392.43 360.68 0)
+			(at 342.9 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43485,7 +43508,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 392.43 363.22 0)
+			(at 342.9 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43495,7 +43518,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 392.43 365.76 0)
+			(at 342.9 381 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43505,7 +43528,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 392.43 368.3 0)
+			(at 342.9 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43515,7 +43538,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 392.43 370.84 0)
+			(at 342.9 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43525,7 +43548,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 392.43 373.38 0)
+			(at 342.9 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43535,7 +43558,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 392.43 375.92 0)
+			(at 342.9 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43545,7 +43568,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 392.43 378.46 0)
+			(at 342.9 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44821,7 +44844,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 176.53 375.92 0)
+		(at 127 391.16 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -44831,7 +44854,7 @@
 		(fields_autoplaced yes)
 		(uuid "ed8629eb-7f7d-4bad-bd22-ec605196019c")
 		(property "Reference" "LED15"
-			(at 162.56 368.3 0)
+			(at 113.03 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44839,7 +44862,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 162.56 370.84 0)
+			(at 113.03 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44847,7 +44870,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 152.4 373.38 0)
+			(at 102.87 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44857,7 +44880,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 152.4 375.92 0)
+			(at 102.87 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44867,7 +44890,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 152.4 378.46 0)
+			(at 102.87 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44877,7 +44900,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 152.4 381 0)
+			(at 102.87 396.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44887,7 +44910,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 152.4 383.54 0)
+			(at 102.87 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44897,7 +44920,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 152.4 386.08 0)
+			(at 102.87 401.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44907,7 +44930,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 152.4 388.62 0)
+			(at 102.87 403.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44917,7 +44940,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 152.4 391.16 0)
+			(at 102.87 406.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44927,7 +44950,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 152.4 393.7 0)
+			(at 102.87 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44937,7 +44960,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 152.4 396.24 0)
+			(at 102.87 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44947,7 +44970,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 152.4 398.78 0)
+			(at 102.87 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44957,7 +44980,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 152.4 401.32 0)
+			(at 102.87 416.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45055,7 +45078,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 370.84 375.92 0)
+		(at 321.31 391.16 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -45065,7 +45088,7 @@
 		(fields_autoplaced yes)
 		(uuid "f0000f8d-7577-4546-be9c-1ded1a4ae735")
 		(property "Reference" "LED21"
-			(at 356.87 368.3 0)
+			(at 307.34 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45073,7 +45096,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 356.87 370.84 0)
+			(at 307.34 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45081,7 +45104,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 346.71 373.38 0)
+			(at 297.18 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45091,7 +45114,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 346.71 375.92 0)
+			(at 297.18 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45101,7 +45124,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 346.71 378.46 0)
+			(at 297.18 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45111,7 +45134,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 346.71 381 0)
+			(at 297.18 396.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45121,7 +45144,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 346.71 383.54 0)
+			(at 297.18 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45131,7 +45154,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 346.71 386.08 0)
+			(at 297.18 401.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45141,7 +45164,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 346.71 388.62 0)
+			(at 297.18 403.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45151,7 +45174,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 346.71 391.16 0)
+			(at 297.18 406.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45161,7 +45184,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 346.71 393.7 0)
+			(at 297.18 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45171,7 +45194,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 346.71 396.24 0)
+			(at 297.18 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45181,7 +45204,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 346.71 398.78 0)
+			(at 297.18 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45191,7 +45214,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 346.71 401.32 0)
+			(at 297.18 416.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45456,7 +45479,7 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 242.57 375.92 0)
+		(at 193.04 391.16 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -45466,7 +45489,7 @@
 		(fields_autoplaced yes)
 		(uuid "f49db22d-9d2a-4a3a-b39f-a9d8fef6ebe4")
 		(property "Reference" "LED17"
-			(at 228.6 368.3 0)
+			(at 179.07 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45474,7 +45497,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 228.6 370.84 0)
+			(at 179.07 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45482,7 +45505,7 @@
 			)
 		)
 		(property "Footprint" "SK6812MINI-E:SK6812MINIE"
-			(at 218.44 373.38 0)
+			(at 168.91 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45492,7 +45515,7 @@
 			)
 		)
 		(property "Datasheet" "http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf"
-			(at 218.44 375.92 0)
+			(at 168.91 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45502,7 +45525,7 @@
 			)
 		)
 		(property "Description" "3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"
-			(at 218.44 378.46 0)
+			(at 168.91 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45512,7 +45535,7 @@
 			)
 		)
 		(property "Height" "1.88"
-			(at 218.44 381 0)
+			(at 168.91 396.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45522,7 +45545,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yellow Stone Corp."
-			(at 218.44 383.54 0)
+			(at 168.91 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45532,7 +45555,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SK6812MINI-E"
-			(at 218.44 386.08 0)
+			(at 168.91 401.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45542,7 +45565,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 218.44 388.62 0)
+			(at 168.91 403.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45552,7 +45575,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 218.44 391.16 0)
+			(at 168.91 406.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45562,7 +45585,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 218.44 393.7 0)
+			(at 168.91 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45572,7 +45595,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 218.44 396.24 0)
+			(at 168.91 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45582,7 +45605,7 @@
 			)
 		)
 		(property "Mouser Testing Part Number" ""
-			(at 218.44 398.78 0)
+			(at 168.91 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45592,7 +45615,7 @@
 			)
 		)
 		(property "Mouser Testing Price/Stock" ""
-			(at 218.44 401.32 0)
+			(at 168.91 416.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
