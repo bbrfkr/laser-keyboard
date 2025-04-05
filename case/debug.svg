@@ -78,12 +78,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.99999999"
-     inkscape:cx="658.00001"
-     inkscape:cy="497.5"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="868.75004"
+     inkscape:cy="130.62501"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
-     inkscape:window-x="2552"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6853"
@@ -124,7 +124,7 @@
      inkscape:label="trackball_cup_real_size" />
   <path
      id="path9"
-     style="display:none;fill:none;stroke:#000000;stroke-width:0.1"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.1"
      inkscape:label="top_case_holes"
      d="m 344.82198,73.385 2e-5,-37.5 h -37.5 v 37.5 z M 345.612,31.3 H 306.517 V 11.25 h 39.095 z m -20.04,66.66 h 20.05 V 77.92 h -20.05 z m -61.887,0 h 58.132 V 77.92 h -19.08 V 58.88 h -20.03 v 19.03 h -19.0225 z m 15.221,-42.805 h 19.092 V 16.005 H 11.25 v 77.22 h 239.133 v -19.02 l 28.523,1.8e-4 z" />
   <path
@@ -272,4 +272,18 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.102145;-inkscape-stroke:none"
+     id="rect1"
+     width="23.204855"
+     height="16.025856"
+     x="165.55907"
+     y="2.9030726"
+     inkscape:label="daughter-board-hole" />
+  <path
+     id="rect1-1"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1"
+     d="m 14.26365,12.4225 h 278.70001 v 1.665 H 14.26365 Z m 0,82.67 h 228.7 v 1.665 h -228.7 z"
+     inkscape:label="led-diffuser"
+     sodipodi:nodetypes="cccccccccc" />
 </svg>
