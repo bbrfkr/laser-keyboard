@@ -61,23 +61,26 @@ module cup_with_claw(){
 }
 
 module subtract_support() {
-    sphere($support_radius);
+    sphere($support_radius+0.025);
 }
 
 module support_holder(){
-    translate([0,0,-$holder_height-$support_diameter+0.31]) difference(){
-        union(){
-            difference(){
-                hull(){
-                    translate([0,0,$holder_height/2]) cube([$holder_edge_length, $holder_edge_length, $holder_height], center=true);
-                    translate([0,0,$holder_height]) sphere($holder_edge_length/2);
+    scale_ratio=0.99;
+    scale([scale_ratio, scale_ratio, scale_ratio]) {
+        translate([0,0,-$holder_height-$support_diameter+0.31]) difference(){
+            union(){
+                difference(){
+                    hull(){
+                        translate([0,0,$holder_height/2]) cube([$holder_edge_length, $holder_edge_length, $holder_height], center=true);
+                        translate([0,0,$holder_height]) sphere($holder_edge_length/2);
+                    }
+                    translate([0,0,$holder_height+$holder_edge_length/2-$support_radius/2]) subtract_support();
+                    
                 }
-                translate([0,0,$holder_height+$holder_edge_length/2-$support_radius/2]) subtract_support();
-                
+                translate([0,0,$holder_height/2]) rotate([90,0,0])cylinder($holder_cylinder_length, $holder_cylinder_radius, $holder_cylinder_radius, true);
             }
-            translate([0,0,$holder_height/2]) rotate([90,0,0])cylinder($holder_cylinder_length, $holder_cylinder_radius, $holder_cylinder_radius, true);
+            cylinder($holder_height+$support_diameter, 0.6, 0.6, false);
         }
-        cylinder($holder_height+$support_diameter, 0.6, 0.6, false);
     }
 }
 
@@ -164,9 +167,9 @@ module sensor_hole(){
     translate([sensor_hole_x_offset,0,0]) cube([sensor_hole_length,sensor_hole_width,0.01], center=true);
 }
 
-cup();
+//cup();
 //support_holders();
-//support_holder();
+support_holder();
 
 // for debug
 //projection(cut=false) sensor_hole();
