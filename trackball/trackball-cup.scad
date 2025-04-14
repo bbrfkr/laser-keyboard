@@ -61,11 +61,11 @@ module cup_with_claw(){
 }
 
 module subtract_support() {
-    sphere($support_radius+0.025);
+    sphere($support_radius);
 }
 
 module support_holder(){
-    scale_ratio=0.99;
+    scale_ratio=0.95;
     scale([scale_ratio, scale_ratio, scale_ratio]) {
         translate([0,0,-$holder_height-$support_diameter+0.31]) difference(){
             union(){
