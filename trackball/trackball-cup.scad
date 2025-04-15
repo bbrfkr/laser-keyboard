@@ -16,7 +16,7 @@ $holder_cylinder_radius=$holder_cylinder_diameter/2;
 $holder_edge_length=$support_diameter+2;
 $holder_height=$support_diameter*1.5;
 $holder_cylinder_length=$holder_edge_length*2;
-$lens_thickness=3.8;
+$lens_thickness=5;
 $support_angle=45;
 $fn = 128;
 
@@ -65,7 +65,7 @@ module subtract_support() {
 }
 
 module support_holder(){
-    scale_ratio=0.95;
+    scale_ratio=0.94;
     scale([scale_ratio, scale_ratio, scale_ratio]) {
         translate([0,0,-$holder_height-$support_diameter+0.31]) difference(){
             union(){
@@ -167,9 +167,9 @@ module sensor_hole(){
     translate([sensor_hole_x_offset,0,0]) cube([sensor_hole_length,sensor_hole_width,0.01], center=true);
 }
 
-//cup();
+cup();
 //support_holders();
-support_holder();
+//support_holder();
 
 // for debug
 //projection(cut=false) sensor_hole();
