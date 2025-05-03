@@ -58,6 +58,11 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
                 }
             }
             return false;
+        case KC_F20:
+            if (record->event.pressed) {
+                pointing_device_set_cpi(PMW3360_INITIAL_CPI);
+            }
+            return false;
     }
     return true;
 }
