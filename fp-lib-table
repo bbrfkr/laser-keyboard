@@ -7,4 +7,7 @@
   (lib (name "TS-1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/lib/TS-1187A-B-A-B")(options "")(descr ""))
   (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/lib/Type-C.pretty")(options "")(descr ""))
   (lib (name "WS2812B")(type "KiCad")(uri "${KIPRJMOD}/lib/WS2812B.pretty")(options "")(descr ""))
+  (lib (name "TPD4E05U06DQAR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPD4E05U06DQAR")(options "")(descr ""))
+  (lib (name "X322516MLB4SI")(type "KiCad")(uri "${KIPRJMOD}/lib/X322516MLB4SI")(options "")(descr ""))
+  (lib (name "1157-04AU")(type "KiCad")(uri "${KIPRJMOD}/lib/1157-04AU.pretty")(options "")(descr ""))
 )

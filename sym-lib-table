@@ -6,4 +6,5 @@
   (lib (name "TS-1187A-B-A-B")(type "Legacy")(uri "${KIPRJMOD}/lib/TS-1187A-B-A-B/TS-1187A-B-A-B.lib")(options "")(descr ""))
   (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/lib/Type-C.pretty/Type-C.lib")(options "")(descr ""))
   (lib (name "ws2812b")(type "Legacy")(uri "${KIPRJMOD}/lib/WS2812B.pretty/Schematic-Symbol/ws2812b.lib")(options "")(descr ""))
+  (lib (name "1157-04AU")(type "KiCad")(uri "${KIPRJMOD}/lib/1157-04AU.pretty/1157-04AU.kicad_sym")(options "")(descr ""))
 )
