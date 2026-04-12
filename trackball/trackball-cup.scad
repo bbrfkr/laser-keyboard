@@ -60,8 +60,32 @@ module cup_with_claw(){
     mirror_cover();
 }
 
-module subtract_support() {
+module support() {
     sphere($support_radius);
+}
+
+module supports() {
+    offset=0.6;
+    y=14.46-offset;
+    rz=30;
+    z=12;
+    rotate([0,0,rz]) translate([0,y,z]) support();
+    rotate([0,0,rz+120]) translate([0,y,z]) support();
+    rotate([0,0,rz+240]) translate([0,y,z]) support();
+}
+
+module subtract_support() {
+    sphere($support_radius+0.05);
+}
+
+module subtract_supports() {
+    offset=0.6;
+    y=14.46-offset;
+    z=12;
+    rz=30;
+    rotate([0,0,rz]) translate([0,y,z]) subtract_support();
+    rotate([0,0,rz+120]) translate([0,y,z]) subtract_support();
+    rotate([0,0,rz+240]) translate([0,y,z]) subtract_support();
 }
 
 module support_holder(){
@@ -69,7 +93,7 @@ module support_holder(){
     scale([scale_ratio, scale_ratio, scale_ratio]) {
         translate([0,0,-$holder_height-$support_diameter+0.31]) difference(){
             union(){
-                difference(){
+                union(){
                     hull(){
                         translate([0,0,$holder_height/2]) cube([$holder_edge_length, $holder_edge_length, $holder_height], center=true);
                         translate([0,0,$holder_height]) sphere($holder_edge_length/2);
@@ -142,20 +166,29 @@ module subtract_lens_for_laser() {
 }
 
 module insert_holes(){
-    translate([15.5,15.5,0]) cylinder(4,1.6,1.6, center=true);
-    translate([15.5,-15.5,0]) cylinder(4,1.6,1.6, center=true);
-    translate([-15.5,15.5,0]) cylinder(4,1.6,1.6, center=true);
-    translate([-15.5,-15.5,0]) cylinder(4,1.6,1.6, center=true);
+    translate([15.5,15.5,0]) cylinder(5,1.6,1.6, center=true);
+    translate([15.5,-15.5,0]) cylinder(5,1.6,1.6, center=true);
+    translate([-15.5,15.5,0]) cylinder(5,1.6,1.6, center=true);
+    translate([-15.5,-15.5,0]) cylinder(5,1.6,1.6, center=true);
+}
+
+module magnet_holes(){
+    move=13.5;
+    translate([move,move,24.8/2-2.1]) cylinder(4.2,1.55,1.55, center=true);
+    translate([move,-move,24.8/2-2.1]) cylinder(4.2,1.55,1.55, center=true);
+    translate([-move,move,24.8/2-2.1]) cylinder(4.2,1.55,1.55, center=true);
+    translate([-move,-move,24.8/2-2.1]) cylinder(4.2,1.55,1.55, center=true);
 }
 
 module cup(){
     centering_for_optical_center=21.35/2-10.97;
     translate([centering_for_optical_center,0,$lens_thickness+1]) difference(){
         cup_with_claw();
-        subtract_support_holders(1.02);
+        translate([0,0,-1-$lens_thickness]) subtract_supports();
         translate([0,0,-1-$lens_thickness]) subtract_lens();
         translate([0,0,-1-$lens_thickness]) subtract_lens_for_laser();
         translate([0,0,1-$lens_thickness]) insert_holes();
+         translate([0,0,1-$lens_thickness]) magnet_holes();
     }
 }
 
@@ -167,10 +200,21 @@ module sensor_hole(){
     translate([sensor_hole_x_offset,0,0]) cube([sensor_hole_length,sensor_hole_width,0.01], center=true);
 }
 
-cup();
-//support_holders();
-//support_holder();
-
+module cup_top(){
+    difference(){
+        cup();
+        cube([50,50,24.8], center=true);
+    }
+ }
+module cup_bottom(){
+    difference(){
+        cup();
+        translate([0,0,24.8/2+25])cube([50,50,50], center=true);
+    }
+ } 
+cup_top();
+//cup_bottom();
+//translate([21.35/2-10.97,0,12]) subtract_supports();
 // for debug
 //projection(cut=false) sensor_hole();
 //projection(cut=false) translate([0,0,+$lens_thickness]) difference(){cup();cube([30,30,100],center=true);};
