@@ -65,7 +65,7 @@ module support() {
 }
 
 module supports() {
-    offset=0.6;
+    offset=0.46;
     y=14.46-offset;
     rz=30;
     z=12;
@@ -79,7 +79,7 @@ module subtract_support() {
 }
 
 module subtract_supports() {
-    offset=0.6;
+    offset=0.46;
     y=14.46-offset;
     z=12;
     rz=30;
@@ -174,10 +174,10 @@ module insert_holes(){
 
 module magnet_holes(){
     move=13.5;
-    translate([move,move,24.8/2-2.1]) cylinder(4.2,1.55,1.55, center=true);
-    translate([move,-move,24.8/2-2.1]) cylinder(4.2,1.55,1.55, center=true);
-    translate([-move,move,24.8/2-2.1]) cylinder(4.2,1.55,1.55, center=true);
-    translate([-move,-move,24.8/2-2.1]) cylinder(4.2,1.55,1.55, center=true);
+    translate([move,move,24.8/2-2.1]) cylinder(4.2,1.65,1.65, center=true);
+    translate([move,-move,24.8/2-2.1]) cylinder(4.2,1.65,1.65, center=true);
+    translate([-move,move,24.8/2-2.1]) cylinder(4.2,1.65,1.65, center=true);
+    translate([-move,-move,24.8/2-2.1]) cylinder(4.2,1.65,1.65, center=true);
 }
 
 module cup(){
