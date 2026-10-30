@@ -26580,7 +26580,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C964991"
+		(property "LCSC" "C26033"
 			(at 76.2 208.28 90)
 			(effects
 				(font
@@ -27770,7 +27770,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C247280"
+		(property "LCSC" "C229581"
 			(at 283.21 288.29 90)
 			(effects
 				(font
@@ -30224,7 +30224,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C425547"
+		(property "LCSC" "C311945"
 			(at 373.38 292.1 90)
 			(effects
 				(font
@@ -33884,7 +33884,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C45027"
+		(property "LCSC" "C488931"
 			(at 295.91 292.1 90)
 			(effects
 				(font
@@ -36273,7 +36273,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C247238"
+		(property "LCSC" "C488889"
 			(at 360.68 288.29 90)
 			(effects
 				(font
@@ -36527,7 +36527,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2759631"
+		(property "LCSC" "C17927"
 			(at 39.37 300.99 90)
 			(effects
 				(font
@@ -37328,7 +37328,7 @@
 				)
 			)
 		)
-		(property "Value" "SMD0805-050-16V"
+		(property "Value" "BSMD1206-050-16V"
 			(at 74.93 297.18 90)
 			(effects
 				(font
@@ -37363,7 +37363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TECHFUSE"
+		(property "Manufacturer" "BHFUSE"
 			(at 74.93 300.99 0)
 			(effects
 				(font
@@ -37372,7 +37372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "SMD0805-050-16V"
+		(property "Manufacturer Part Number" "BSMD1206-050-16V"
 			(at 74.93 300.99 0)
 			(effects
 				(font
@@ -37381,7 +37381,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2833485"
+		(property "LCSC" "C883124"
 			(at 74.93 300.99 0)
 			(effects
 				(font
@@ -37390,7 +37390,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "F0805"
+		(property "Package" "1206"
 			(at 74.93 300.99 0)
 			(effects
 				(font
@@ -38220,7 +38220,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C964991"
+		(property "LCSC" "C26033"
 			(at 76.2 210.82 90)
 			(effects
 				(font
@@ -44000,7 +44000,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C17928"
+		(property "LCSC" "C1489"
 			(at 86.36 118.11 90)
 			(effects
 				(font
@@ -45697,7 +45697,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C17928"
+		(property "LCSC" "C1489"
 			(at 289.56 252.73 90)
 			(effects
 				(font
@@ -45871,7 +45871,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C17928"
+		(property "LCSC" "C1489"
 			(at 119.38 83.82 90)
 			(effects
 				(font
