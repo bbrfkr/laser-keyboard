@@ -31,7 +31,11 @@ OFFSETS = os.path.join(ROOT, "jlc-cpl-offsets.csv")
 
 
 def find_kicad_cli(explicit):
-    candidates = [explicit, os.environ.get("KICAD_CLI"), shutil.which("kicad-cli")]
+    if explicit:
+        if not os.path.isfile(explicit):
+            sys.exit(f"--kicad-cli に指定したファイルが無い: {explicit}")
+        return explicit
+    candidates = [os.environ.get("KICAD_CLI"), shutil.which("kicad-cli")]
     for base in (os.path.join(os.environ.get("LOCALAPPDATA", ""), "Programs"), os.environ.get("ProgramFiles", "")):
         if base:
             candidates += sorted(glob.glob(os.path.join(base, "KiCad", "*", "bin", "kicad-cli.exe")), reverse=True)
@@ -80,7 +84,11 @@ def main():
     missing = wanted - {p["Ref"] for p in placements}
     if missing:
         sys.exit(f"bom.csv に在るが PCB に無い部品: {', '.join(sorted(missing))}")
-    offsets = {r["Designator"]: r for r in read_csv(args.offsets)}
+    offsets = {}
+    for r in read_csv(args.offsets):
+        if r["Designator"] in offsets:
+            sys.exit(f"補正の表で部品が重複している: {r['Designator']}")
+        offsets[r["Designator"]] = r
     rows = []
     for p in placements:
         ref = p["Ref"]
